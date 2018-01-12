@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:padding="30dip"
+    >
+
+		<ImageView
+		    android:id="@+id/imageLogo"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center"
+		    android:contentDescription="@string/mofo_logo"
+		    android:src="@drawable/mofo_studio_logo" />
+
+		<TextView
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center"
+		    android:layout_marginBottom="25dip"
+		    android:text="@string/main_title"
+		    android:textColor="@color/white_color"
+		    android:textSize="24.5sp" />
+
+		<Button
+		    android:id="@+id/etymology_button"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/rounded_button_spring_rain"
+		    android:text="@string/etymology_label" />
+
+ 		<Button
+ 		    android:id="@+id/preferences_button"
+ 		    android:layout_width="fill_parent"
+ 		    android:layout_height="wrap_content"
+ 		    android:layout_marginTop="10dp"
+ 		    android:background="@drawable/rounded_button_cerulean"
+ 		    android:text="@string/preferences_label" />
+ 
+		<Button
+		    android:id="@+id/about_button"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp"
+		    android:background="@drawable/rounded_button_lavender"
+		    android:text="@string/about_label" />
+  
+		<Button
+		    android:id="@+id/exit_button"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp"
+		    android:background="@drawable/rounded_button_red"
+		    android:text="@string/exit_label" />
+   
+</LinearLayout>

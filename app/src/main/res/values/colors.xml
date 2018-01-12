@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<color name="background">#ff000000</color>
+	<color name="foreground">#ffffffff</color>
+	<color name="white_color">#fff</color>
+    <color name="gray_color">#aaa</color>
+    <color name="spring_rain_color">#793</color> 
+    <color name="cerulean_color">#8BD</color> 
+    <color name="lavender_color">#BAC</color> 
+    <color name="red_color">#F00</color>
+    <color name="actionbar_background">#000000</color>
+    <color name="actionbar_text">#ffffff</color>
+	
+
+	
+	
+	
+	
+</resources>

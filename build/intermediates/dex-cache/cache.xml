@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Temp\Profane\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81b6448dfa69cb627725c3f87387ffd411d3c39a">
+        <dex dex="C:\Temp\Profane\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cb053900abe87bb7d40eaa9c0c676cf6712a4f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Temp\Profane\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc78737fd5670cd0c04f200220337bb5396126f7">
+        <dex dex="C:\Temp\Profane\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1a67c6fe9083478b6c7360c708ec7b908a4c8c72\classes.dex" />
+    </item>
+
+</items>

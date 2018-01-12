@@ -1,0 +1,1784 @@
+[
+    {
+        "outputFile": "C:\\Temp\\Profane\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 28,
+                    "endColumn": 16,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3010,
+                        "endLine": 56,
+                        "endColumn": 16,
+                        "endOffset": 4228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 4167
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 28,
+                        "endColumn": 19,
+                        "endOffset": 2998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4172,
+                    "endLine": 108,
+                    "endColumn": 15,
+                    "endOffset": 6116
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 1,
+                        "startOffset": 7462,
+                        "endLine": 164,
+                        "endColumn": 15,
+                        "endOffset": 9458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6121,
+                    "endLine": 161,
+                    "endColumn": 16,
+                    "endOffset": 9282
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 4237,
+                        "endLine": 110,
+                        "endColumn": 16,
+                        "endOffset": 7456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 9287,
+                    "endLine": 189,
+                    "endColumn": 16,
+                    "endOffset": 11298
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 1,
+                        "startOffset": 9475,
+                        "endLine": 195,
+                        "endColumn": 16,
+                        "endOffset": 11513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 11303,
+                    "endLine": 217,
+                    "endColumn": 16,
+                    "endOffset": 12083
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 542,
+                        "startColumn": 1,
+                        "startOffset": 30804,
+                        "endLine": 569,
+                        "endColumn": 16,
+                        "endOffset": 31611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 12088,
+                    "endLine": 262,
+                    "endColumn": 16,
+                    "endOffset": 13738
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 600,
+                        "startColumn": 1,
+                        "startOffset": 32619,
+                        "endLine": 644,
+                        "endColumn": 16,
+                        "endOffset": 34313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 13743,
+                    "endLine": 308,
+                    "endColumn": 16,
+                    "endOffset": 16462
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 1,
+                        "startOffset": 23114,
+                        "endLine": 435,
+                        "endColumn": 16,
+                        "endOffset": 25878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 16467,
+                    "endLine": 336,
+                    "endColumn": 16,
+                    "endOffset": 17436
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 571,
+                        "startColumn": 1,
+                        "startOffset": 31617,
+                        "endLine": 598,
+                        "endColumn": 16,
+                        "endOffset": 32613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 17441,
+                    "endLine": 364,
+                    "endColumn": 16,
+                    "endOffset": 18980
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 1,
+                        "startOffset": 11516,
+                        "endLine": 223,
+                        "endColumn": 16,
+                        "endOffset": 13082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 18985,
+                    "endLine": 390,
+                    "endColumn": 16,
+                    "endOffset": 19980
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 673,
+                        "startColumn": 1,
+                        "startOffset": 36220,
+                        "endLine": 698,
+                        "endColumn": 16,
+                        "endOffset": 37240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 19985,
+                    "endLine": 416,
+                    "endColumn": 16,
+                    "endOffset": 21855
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 646,
+                        "startColumn": 1,
+                        "startOffset": 34319,
+                        "endLine": 671,
+                        "endColumn": 16,
+                        "endOffset": 36214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 21860,
+                    "endLine": 480,
+                    "endColumn": 16,
+                    "endOffset": 24186
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 765,
+                        "startColumn": 1,
+                        "startOffset": 40774,
+                        "endLine": 828,
+                        "endColumn": 16,
+                        "endOffset": 43163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 24191,
+                    "endLine": 544,
+                    "endColumn": 16,
+                    "endOffset": 27650
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 700,
+                        "startColumn": 1,
+                        "startOffset": 37246,
+                        "endLine": 763,
+                        "endColumn": 16,
+                        "endOffset": 40768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 27655,
+                    "endLine": 596,
+                    "endColumn": 16,
+                    "endOffset": 29567
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 490,
+                        "startColumn": 1,
+                        "startOffset": 28838,
+                        "endLine": 541,
+                        "endColumn": 16,
+                        "endOffset": 30801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 29572,
+                    "endLine": 649,
+                    "endColumn": 16,
+                    "endOffset": 32471
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 437,
+                        "startColumn": 1,
+                        "startOffset": 25884,
+                        "endLine": 489,
+                        "endColumn": 16,
+                        "endOffset": 28835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 650,
+                    "startColumn": 4,
+                    "startOffset": 32476,
+                    "endLine": 702,
+                    "endColumn": 16,
+                    "endOffset": 34318
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 885,
+                        "startColumn": 1,
+                        "startOffset": 45565,
+                        "endLine": 937,
+                        "endColumn": 16,
+                        "endOffset": 47459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 703,
+                    "startColumn": 4,
+                    "startOffset": 34323,
+                    "endLine": 755,
+                    "endColumn": 16,
+                    "endOffset": 36659
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 831,
+                        "startColumn": 1,
+                        "startOffset": 43172,
+                        "endLine": 883,
+                        "endColumn": 16,
+                        "endOffset": 45560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 756,
+                    "startColumn": 4,
+                    "startOffset": 36664,
+                    "endLine": 836,
+                    "endColumn": 16,
+                    "endOffset": 40081
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 1,
+                        "startOffset": 19611,
+                        "endLine": 388,
+                        "endColumn": 16,
+                        "endOffset": 23108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 837,
+                    "startColumn": 4,
+                    "startOffset": 40086,
+                    "endLine": 917,
+                    "endColumn": 16,
+                    "endOffset": 46516
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 1,
+                        "startOffset": 13088,
+                        "endLine": 305,
+                        "endColumn": 16,
+                        "endOffset": 19598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 918,
+                    "startColumn": 4,
+                    "startOffset": 46521,
+                    "endLine": 970,
+                    "endColumn": 16,
+                    "endOffset": 48436
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 991,
+                        "startColumn": 1,
+                        "startOffset": 49981,
+                        "endLine": 1043,
+                        "endColumn": 16,
+                        "endOffset": 51948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 971,
+                    "startColumn": 4,
+                    "startOffset": 48441,
+                    "endLine": 1022,
+                    "endColumn": 17,
+                    "endOffset": 50903
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 939,
+                        "startColumn": 1,
+                        "startOffset": 47465,
+                        "endLine": 990,
+                        "endColumn": 17,
+                        "endOffset": 49978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1023,
+                    "startColumn": 4,
+                    "startOffset": 50908,
+                    "endLine": 1035,
+                    "endColumn": 16,
+                    "endOffset": 51253
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 1045,
+                        "startColumn": 1,
+                        "startOffset": 51954,
+                        "endLine": 1057,
+                        "endColumn": 16,
+                        "endOffset": 52311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1036,
+                    "startColumn": 4,
+                    "startOffset": 51258,
+                    "endLine": 1048,
+                    "endColumn": 16,
+                    "endOffset": 51500
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 1058,
+                        "startColumn": 1,
+                        "startOffset": 52314,
+                        "endLine": 1070,
+                        "endColumn": 16,
+                        "endOffset": 52568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1049,
+                    "startColumn": 4,
+                    "startOffset": 51505,
+                    "endColumn": 54,
+                    "endOffset": 51555
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 54,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1050,
+                    "startColumn": 4,
+                    "startOffset": 51560,
+                    "endColumn": 48,
+                    "endOffset": 51604
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 48,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1051,
+                    "startColumn": 4,
+                    "startOffset": 51609,
+                    "endColumn": 46,
+                    "endOffset": 51651
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 111,
+                        "endColumn": 43,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1052,
+                    "startColumn": 4,
+                    "startOffset": 51656,
+                    "endColumn": 45,
+                    "endOffset": 51697
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 45,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1053,
+                    "startColumn": 4,
+                    "startOffset": 51702,
+                    "endColumn": 46,
+                    "endOffset": 51744
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 155,
+                        "endColumn": 43,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1054,
+                    "startColumn": 4,
+                    "startOffset": 51749,
+                    "endColumn": 41,
+                    "endOffset": 51786
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 41,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1055,
+                    "startColumn": 4,
+                    "startOffset": 51791,
+                    "endColumn": 45,
+                    "endOffset": 51832
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 45,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1056,
+                    "startColumn": 4,
+                    "startOffset": 51837,
+                    "endColumn": 40,
+                    "endOffset": 51873
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 40,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1057,
+                    "startColumn": 4,
+                    "startOffset": 51878,
+                    "endColumn": 48,
+                    "endOffset": 51922
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 48,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1058,
+                    "startColumn": 4,
+                    "startOffset": 51927,
+                    "endColumn": 42,
+                    "endOffset": 51965
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 199,
+                        "endColumn": 39,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1060,
+                    "startColumn": 4,
+                    "startOffset": 52183,
+                    "endColumn": 48,
+                    "endOffset": 52227
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 49,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1061,
+                    "startColumn": 4,
+                    "startOffset": 52232,
+                    "endColumn": 48,
+                    "endOffset": 52276
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 48,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1062,
+                    "startColumn": 4,
+                    "startOffset": 52281,
+                    "endColumn": 41,
+                    "endOffset": 52318
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 41,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1063,
+                    "startColumn": 4,
+                    "startOffset": 52323,
+                    "endColumn": 45,
+                    "endOffset": 52364
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 45,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1064,
+                    "startColumn": 4,
+                    "startOffset": 52369,
+                    "endColumn": 41,
+                    "endOffset": 52406
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 41,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1065,
+                    "startColumn": 4,
+                    "startOffset": 52411,
+                    "endColumn": 41,
+                    "endOffset": 52448
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 41,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1066,
+                    "startColumn": 4,
+                    "startOffset": 52453,
+                    "endColumn": 47,
+                    "endOffset": 52496
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 47,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1067,
+                    "startColumn": 4,
+                    "startOffset": 52501,
+                    "endColumn": 44,
+                    "endOffset": 52541
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 44,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1068,
+                    "startColumn": 4,
+                    "startOffset": 52546,
+                    "endColumn": 39,
+                    "endOffset": 52581
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 39,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1069,
+                    "startColumn": 4,
+                    "startOffset": 52586,
+                    "endColumn": 46,
+                    "endOffset": 52628
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\numericalConstants.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 46,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1070,
+                    "startColumn": 4,
+                    "startOffset": 52633,
+                    "endColumn": 45,
+                    "endOffset": 52674
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 5,
+                        "startOffset": 527,
+                        "endColumn": 46,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1071,
+                    "startColumn": 4,
+                    "startOffset": 52679,
+                    "endColumn": 1171,
+                    "endOffset": 53846
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 5,
+                        "startOffset": 2646,
+                        "endColumn": 1172,
+                        "endOffset": 3813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1072,
+                    "startColumn": 4,
+                    "startOffset": 53851,
+                    "endColumn": 58,
+                    "endOffset": 53905
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 5,
+                        "startOffset": 2586,
+                        "endColumn": 59,
+                        "endOffset": 2640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1073,
+                    "startColumn": 4,
+                    "startOffset": 53910,
+                    "endColumn": 48,
+                    "endOffset": 53954
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 53959,
+                    "endColumn": 47,
+                    "endOffset": 54002
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 47,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1075,
+                    "startColumn": 4,
+                    "startOffset": 54007,
+                    "endColumn": 54,
+                    "endOffset": 54057
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 5,
+                        "startOffset": 4105,
+                        "endColumn": 55,
+                        "endOffset": 4155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1076,
+                    "startColumn": 4,
+                    "startOffset": 54062,
+                    "endColumn": 39,
+                    "endOffset": 54097
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 5,
+                        "startOffset": 4230,
+                        "endColumn": 40,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 54102,
+                    "endColumn": 55,
+                    "endOffset": 54153
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 411,
+                        "endColumn": 56,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1078,
+                    "startColumn": 4,
+                    "startOffset": 54158,
+                    "endColumn": 33,
+                    "endOffset": 54187
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 5,
+                        "startOffset": 4195,
+                        "endColumn": 34,
+                        "endOffset": 4224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1079,
+                    "startColumn": 4,
+                    "startOffset": 54192,
+                    "endColumn": 54,
+                    "endOffset": 54242
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 355,
+                        "endColumn": 55,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1080,
+                    "startColumn": 4,
+                    "startOffset": 54247,
+                    "endColumn": 43,
+                    "endOffset": 54286
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 5,
+                        "startOffset": 574,
+                        "endColumn": 44,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 54291,
+                    "endColumn": 71,
+                    "endOffset": 54358
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 5,
+                        "startOffset": 3862,
+                        "endColumn": 72,
+                        "endOffset": 3929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1082,
+                    "startColumn": 4,
+                    "startOffset": 54363,
+                    "endColumn": 50,
+                    "endOffset": 54409
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 5,
+                        "startOffset": 4271,
+                        "endColumn": 54,
+                        "endOffset": 4320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1083,
+                    "startColumn": 4,
+                    "startOffset": 54414,
+                    "endColumn": 49,
+                    "endOffset": 54459
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 49,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1084,
+                    "startColumn": 4,
+                    "startOffset": 54464,
+                    "endColumn": 54,
+                    "endOffset": 54514
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 5,
+                        "startOffset": 619,
+                        "endColumn": 56,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1085,
+                    "startColumn": 4,
+                    "startOffset": 54519,
+                    "endColumn": 40,
+                    "endOffset": 54555
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 5,
+                        "startOffset": 4021,
+                        "endColumn": 41,
+                        "endOffset": 4057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1086,
+                    "startColumn": 4,
+                    "startOffset": 54560,
+                    "endColumn": 70,
+                    "endOffset": 54626
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 729,
+                        "endColumn": 71,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1087,
+                    "startColumn": 4,
+                    "startOffset": 54631,
+                    "endColumn": 88,
+                    "endOffset": 54715
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 5,
+                        "startOffset": 801,
+                        "endColumn": 89,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1088,
+                    "startColumn": 4,
+                    "startOffset": 54720,
+                    "endColumn": 40,
+                    "endOffset": 54756
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 5,
+                        "startOffset": 3935,
+                        "endColumn": 41,
+                        "endOffset": 3971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1089,
+                    "startColumn": 4,
+                    "startOffset": 54761,
+                    "endColumn": 41,
+                    "endOffset": 54798
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 6,
+                        "startOffset": 1559,
+                        "endColumn": 43,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1090,
+                    "startColumn": 4,
+                    "startOffset": 54803,
+                    "endColumn": 72,
+                    "endOffset": 54871
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 6,
+                        "startOffset": 1658,
+                        "endColumn": 74,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1091,
+                    "startColumn": 4,
+                    "startOffset": 54876,
+                    "endColumn": 52,
+                    "endOffset": 54924
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 6,
+                        "startOffset": 1603,
+                        "endColumn": 54,
+                        "endOffset": 1651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1092,
+                    "startColumn": 4,
+                    "startOffset": 54929,
+                    "endColumn": 52,
+                    "endOffset": 54977
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 949,
+                        "endColumn": 53,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1093,
+                    "startColumn": 4,
+                    "startOffset": 54982,
+                    "endColumn": 57,
+                    "endOffset": 55035
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 5,
+                        "startOffset": 468,
+                        "endColumn": 58,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1094,
+                    "startColumn": 4,
+                    "startOffset": 55040,
+                    "endColumn": 67,
+                    "endOffset": 55103
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 7,
+                        "startOffset": 2127,
+                        "endColumn": 70,
+                        "endOffset": 2190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1095,
+                    "startColumn": 4,
+                    "startOffset": 55108,
+                    "endColumn": 93,
+                    "endOffset": 55197
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 6,
+                        "startOffset": 2269,
+                        "endColumn": 95,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 55202,
+                    "endColumn": 69,
+                    "endOffset": 55267
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 6,
+                        "startOffset": 2197,
+                        "endColumn": 71,
+                        "endOffset": 2262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 55272,
+                    "endColumn": 63,
+                    "endOffset": 55331
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 63,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 55336,
+                    "endColumn": 55,
+                    "endOffset": 55387
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 6,
+                        "startOffset": 1733,
+                        "endColumn": 57,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 55392,
+                    "endColumn": 76,
+                    "endOffset": 55464
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 6,
+                        "startOffset": 1851,
+                        "endColumn": 78,
+                        "endOffset": 1923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 55469,
+                    "endColumn": 57,
+                    "endOffset": 55522
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 6,
+                        "startOffset": 1791,
+                        "endColumn": 59,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 55527,
+                    "endColumn": 51,
+                    "endOffset": 55574
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 5,
+                        "startOffset": 1153,
+                        "endColumn": 52,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 55579,
+                    "endColumn": 66,
+                    "endOffset": 55641
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 6,
+                        "startOffset": 1263,
+                        "endColumn": 68,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 55646,
+                    "endColumn": 53,
+                    "endOffset": 55695
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 6,
+                        "startOffset": 1207,
+                        "endColumn": 55,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 55700,
+                    "endColumn": 65,
+                    "endOffset": 55761
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 6,
+                        "startOffset": 1332,
+                        "endColumn": 67,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 55766,
+                    "endColumn": 86,
+                    "endOffset": 55848
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 6,
+                        "startOffset": 1470,
+                        "endColumn": 88,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 55853,
+                    "endColumn": 67,
+                    "endOffset": 55916
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 6,
+                        "startOffset": 1400,
+                        "endColumn": 69,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 55921,
+                    "endColumn": 52,
+                    "endOffset": 55969
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 1099,
+                        "endColumn": 53,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 55974,
+                    "endColumn": 47,
+                    "endOffset": 56017
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 5,
+                        "startOffset": 1050,
+                        "endColumn": 48,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 56022,
+                    "endColumn": 45,
+                    "endOffset": 56063
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 5,
+                        "startOffset": 1003,
+                        "endColumn": 46,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 56068,
+                    "endColumn": 51,
+                    "endOffset": 56115
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 7,
+                        "startOffset": 1931,
+                        "endColumn": 54,
+                        "endOffset": 1978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 56120,
+                    "endColumn": 82,
+                    "endOffset": 56198
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 6,
+                        "startOffset": 2041,
+                        "endColumn": 84,
+                        "endOffset": 2119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 56203,
+                    "endColumn": 53,
+                    "endOffset": 56252
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 6,
+                        "startOffset": 1985,
+                        "endColumn": 55,
+                        "endOffset": 2034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 56257,
+                    "endColumn": 50,
+                    "endOffset": 56303
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 6,
+                        "startOffset": 2365,
+                        "endColumn": 52,
+                        "endOffset": 2411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 56308,
+                    "endColumn": 53,
+                    "endOffset": 56357
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 6,
+                        "startOffset": 2468,
+                        "endColumn": 55,
+                        "endOffset": 2517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 56362,
+                    "endColumn": 47,
+                    "endOffset": 56405
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 6,
+                        "startOffset": 2418,
+                        "endColumn": 49,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 56410,
+                    "endColumn": 42,
+                    "endOffset": 56448
+                },
+                "from": {
+                    "file": "C:\\Temp\\Profane\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 5,
+                        "startOffset": 3977,
+                        "endColumn": 43,
+                        "endOffset": 4015
+                    }
+                }
+            }
+        ]
+    }
+]

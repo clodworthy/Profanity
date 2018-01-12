@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Temp\Profane\app\src\main\res"/><source path="C:\Temp\Profane\app\build\generated\res\rs\debug"/><source path="C:\Temp\Profane\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Temp\Profane\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Temp\Profane\app\src\main\res"><file name="clods1" path="C:\Temp\Profane\app\src\main\res\drawable\clods1.png" qualifiers="" type="drawable"/><file name="mofo_studio_logo" path="C:\Temp\Profane\app\src\main\res\drawable\mofo_studio_logo.png" qualifiers="" type="drawable"/><file name="play_button" path="C:\Temp\Profane\app\src\main\res\drawable\play_button.png" qualifiers="" type="drawable"/><file name="rounded_button_cerulean" path="C:\Temp\Profane\app\src\main\res\drawable\rounded_button_cerulean.xml" qualifiers="" type="drawable"/><file name="rounded_button_lavender" path="C:\Temp\Profane\app\src\main\res\drawable\rounded_button_lavender.xml" qualifiers="" type="drawable"/><file name="rounded_button_red" path="C:\Temp\Profane\app\src\main\res\drawable\rounded_button_red.xml" qualifiers="" type="drawable"/><file name="rounded_button_spring_rain" path="C:\Temp\Profane\app\src\main\res\drawable\rounded_button_spring_rain.xml" qualifiers="" type="drawable"/><file name="seekbar_background" path="C:\Temp\Profane\app\src\main\res\drawable\seekbar_background.9.png" qualifiers="" type="drawable"/><file name="seekbar_progress" path="C:\Temp\Profane\app\src\main\res\drawable\seekbar_progress.xml" qualifiers="" type="drawable"/><file name="seekbar_progress_bg" path="C:\Temp\Profane\app\src\main\res\drawable\seekbar_progress_bg.xml" qualifiers="" type="drawable"/><file name="stripe_bg" path="C:\Temp\Profane\app\src\main\res\drawable\stripe_bg.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Temp\Profane\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="note" path="C:\Temp\Profane\app\src\main\res\drawable-hdpi\note.png" qualifiers="hdpi-v4" type="drawable"/><file name="play_button" path="C:\Temp\Profane\app\src\main\res\drawable-hdpi\play_button.png" qualifiers="hdpi-v4" type="drawable"/><file name="seekbar_background" path="C:\Temp\Profane\app\src\main\res\drawable-hdpi\seekbar_background.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="stripe_bg" path="C:\Temp\Profane\app\src\main\res\drawable-hdpi\stripe_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Temp\Profane\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="note" path="C:\Temp\Profane\app\src\main\res\drawable-ldpi\note.png" qualifiers="ldpi-v4" type="drawable"/><file name="play_button" path="C:\Temp\Profane\app\src\main\res\drawable-ldpi\play_button.png" qualifiers="ldpi-v4" type="drawable"/><file name="seekbar_background" path="C:\Temp\Profane\app\src\main\res\drawable-ldpi\seekbar_background.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="stripe_bg" path="C:\Temp\Profane\app\src\main\res\drawable-ldpi\stripe_bg.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Temp\Profane\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="note" path="C:\Temp\Profane\app\src\main\res\drawable-mdpi\note.png" qualifiers="mdpi-v4" type="drawable"/><file name="play_button" path="C:\Temp\Profane\app\src\main\res\drawable-mdpi\play_button.png" qualifiers="mdpi-v4" type="drawable"/><file name="seekbar_background" path="C:\Temp\Profane\app\src\main\res\drawable-mdpi\seekbar_background.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="stripe_bg" path="C:\Temp\Profane\app\src\main\res\drawable-mdpi\stripe_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="about" path="C:\Temp\Profane\app\src\main\res\layout\about.xml" qualifiers="" type="layout"/><file name="custom_toast" path="C:\Temp\Profane\app\src\main\res\layout\custom_toast.xml" qualifiers="" type="layout"/><file name="dialog_slider" path="C:\Temp\Profane\app\src\main\res\layout\dialog_slider.xml" qualifiers="" type="layout"/><file name="dictionary" path="C:\Temp\Profane\app\src\main\res\layout\dictionary.xml" qualifiers="" type="layout"/><file name="language_dictionary_view" path="C:\Temp\Profane\app\src\main\res\layout\language_dictionary_view.xml" qualifiers="" type="layout"/><file name="listview_header_item" path="C:\Temp\Profane\app\src\main\res\layout\listview_header_item.xml" qualifiers="" type="layout"/><file name="listview_item_row" path="C:\Temp\Profane\app\src\main\res\layout\listview_item_row.xml" qualifiers="" type="layout"/><file name="main" path="C:\Temp\Profane\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="round_border" path="C:\Temp\Profane\app\src\main\res\layout\round_border.xml" qualifiers="" type="layout"/><file path="C:\Temp\Profane\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="KlingonFilePathArray">
+	    <item>Bongo_Klingon_004.mp3</item>
+		<item>Bongo_Klingon_037.mp3</item>
+		<item>Bongo_Klingon_002.mp3</item>
+		<item>Bongo_Klingon_050.mp3</item>
+		<item>Bongo_Klingon_047.mp3</item>
+		<item>Bongo_Klingon_012.mp3</item>
+		<item>Bongo_Klingon_024.mp3</item>
+		<item>Bongo_Klingon_026.mp3</item>
+		<item>Bongo_Klingon_027.mp3</item>
+		<item>Bongo_Klingon_030.mp3</item>
+		<item>Bongo_Klingon_007.mp3</item>
+		<item>Bongo_Klingon_013.mp3</item>
+		<item>Bongo_Klingon_016.mp3</item>
+		<item>Bongo_Klingon_034.mp3</item>
+		<item>Bongo_Klingon_003.mp3</item>
+		<item>Bongo_Klingon_010.mp3</item>
+		<item>Bongo_Klingon_023.mp3</item>
+		<item>Bongo_Klingon_038.mp3</item>
+		<item>Bongo_Klingon_005.mp3</item>
+		<item>Bongo_Klingon_008.mp3</item>
+		<item>Bongo_Klingon_019.mp3</item>
+		<item>Bongo_Klingon_022.mp3</item>
+		<item>Bongo_Klingon_025.mp3</item>
+		<item>Bongo_Klingon_035.mp3</item>
+		<item>Bongo_Klingon_045.mp3</item>
+		<item>Bongo_Klingon_015.mp3</item>
+		<item>Bongo_Klingon_017.mp3</item>
+		<item>Bongo_Klingon_020.mp3</item>
+		<item>Bongo_Klingon_029.mp3</item>
+		<item>Bongo_Klingon_031.mp3</item>
+		<item>Bongo_Klingon_036.mp3</item>
+		<item>Bongo_Klingon_042.mp3</item>
+		<item>Bongo_Klingon_009.mp3</item>
+		<item>Bongo_Klingon_011.mp3</item>
+		<item>Bongo_Klingon_014.mp3</item>
+		<item>Bongo_Klingon_021.mp3</item>
+		<item>Bongo_Klingon_028.mp3</item>
+		<item>Bongo_Klingon_033.mp3</item>
+		<item>Bongo_Klingon_039.mp3</item>
+		<item>Bongo_Klingon_046.mp3</item>
+		<item>Bongo_Klingon_032.mp3</item>
+		<item>Bongo_Klingon_040.mp3</item>
+		<item>Bongo_Klingon_041.mp3</item>
+		<item>Bongo_Klingon_044.mp3</item>
+		<item>Bongo_Klingon_006.mp3</item>
+		<item>Bongo_Klingon_018.mp3</item>
+		<item>Bongo_Klingon_043.mp3</item>
+		<item>Bongo_Klingon_001.mp3</item>
+		<item>Bongo_Klingon_048.mp3</item>
+		<item>Bongo_Klingon_049.mp3</item>
+	</string-array><string-array name="FireflyFilePathArray">
+		<item>Bongo_Firefly_001.mp3</item>
+		<item>Bongo_Firefly_002.mp3</item>
+		<item>Bongo_Firefly_003.mp3</item>
+		<item>Bongo_Firefly_004.mp3</item>
+		<item>Bongo_Firefly_005.mp3</item>
+		<item>Bongo_Firefly_006.mp3</item>
+		<item>Bongo_Firefly_007.mp3</item>
+		<item>Bongo_Firefly_008.mp3</item>
+		<item>Bongo_Firefly_009.mp3</item>
+		<item>Bongo_Firefly_010.mp3</item>
+		<item>Bongo_Firefly_011.mp3</item>
+		<item>Bongo_Firefly_012.mp3</item>
+		<item>Bongo_Firefly_013.mp3</item>
+		<item>Bongo_Firefly_014.mp3</item>
+		<item>Bongo_Firefly_015.mp3</item>
+		<item>Bongo_Firefly_016.mp3</item>
+		<item>Bongo_Firefly_017.mp3</item>
+		<item>Bongo_Firefly_018.mp3</item>
+		<item>Bongo_Firefly_019.mp3</item>
+		<item>Bongo_Firefly_020.mp3</item>
+		<item>Bongo_Firefly_021.mp3</item>
+		<item>Bongo_Firefly_022.mp3</item>
+		<item>Bongo_Firefly_023.mp3</item>
+		<item>Bongo_Firefly_024.mp3</item>
+		<item>Bongo_Firefly_025.mp3</item>
+		<item>Bongo_Firefly_026.mp3</item>
+		<item>Bongo_Firefly_027.mp3</item>
+		<item>Bongo_Firefly_028.mp3</item>
+		<item>Bongo_Firefly_029.mp3</item>
+		<item>Bongo_Firefly_030.mp3</item>
+		<item>Bongo_Firefly_031.mp3</item>
+		<item>Bongo_Firefly_032.mp3</item>
+		<item>Bongo_Firefly_033.mp3</item>
+		<item>Bongo_Firefly_034.mp3</item>
+		<item>Bongo_Firefly_035.mp3</item>
+		<item>Bongo_Firefly_036.mp3</item>
+		<item>Bongo_Firefly_037.mp3</item>
+		<item>Bongo_Firefly_038.mp3</item>
+		<item>Bongo_Firefly_039.mp3</item>
+		<item>Bongo_Firefly_040.mp3</item>
+		<item>Bongo_Firefly_041.mp3</item>
+		<item>Bongo_Firefly_042.mp3</item>
+		<item>Bongo_Firefly_043.mp3</item>
+	</string-array><string-array name="GreekFilePathArray">
+		<item>Bongo_Greek_004.mp3</item>
+		<item>Bongo_Greek_003.mp3</item>
+		<item>Bongo_Greek_010.mp3</item>
+		<item>Bongo_Greek_019.mp3</item>
+		<item>Bongo_Greek_018.mp3</item>
+		<item>Bongo_Greek_023.mp3</item>
+		<item>Bongo_Greek_017.mp3</item>
+		<item>Bongo_Greek_008.mp3</item>
+		<item>Bongo_Greek_016.mp3</item>
+		<item>Bongo_Greek_015.mp3</item>
+		<item>Bongo_Greek_009.mp3</item>
+		<item>Bongo_Greek_014.mp3</item>
+		<item>Bongo_Greek_013.mp3</item>
+		<item>Bongo_Greek_020.mp3</item>
+		<item>Bongo_Greek_006.mp3</item>
+		<item>Bongo_Greek_022.mp3</item>
+		<item>Bongo_Greek_021.mp3</item>
+		<item>Bongo_Greek_026.mp3</item>
+		<item>Bongo_Greek_025.mp3</item>
+		<item>Bongo_Greek_024.mp3</item>
+		<item>Bongo_Greek_012.mp3</item>
+		<item>Bongo_Greek_011.mp3</item>
+		<item>Bongo_Greek_007.mp3</item>
+		<item>Bongo_Greek_002.mp3</item>
+		<item>Bongo_Greek_001.mp3</item>
+		<item>Bongo_Greek_005.mp3</item>  
+	</string-array><string-array name="AncientEgyptianFilePathArray">
+		<item>Bongo_AncientEgyptian_100.mp3</item>
+		<item>Bongo_AncientEgyptian_101.mp3</item>
+		<item>Bongo_AncientEgyptian_102.mp3</item>
+		<item>Bongo_AncientEgyptian_103.mp3</item>
+		<item>Bongo_AncientEgyptian_104.mp3</item>
+		<item>Bongo_AncientEgyptian_105.mp3</item>
+		<item>Bongo_AncientEgyptian_106.mp3</item>
+		<item>Bongo_AncientEgyptian_107.mp3</item>
+		<item>Bongo_AncientEgyptian_108.mp3</item>
+		<item>Bongo_AncientEgyptian_109.mp3</item>
+		<item>Bongo_AncientEgyptian_110.mp3</item>
+		<item>Bongo_AncientEgyptian_111.mp3</item>
+		<item>Bongo_AncientEgyptian_112.mp3</item>
+		<item>Bongo_AncientEgyptian_113.mp3</item>
+		<item>Bongo_AncientEgyptian_114.mp3</item>
+		<item>Bongo_AncientEgyptian_115.mp3</item>
+		<item>Bongo_AncientEgyptian_116.mp3</item>
+		<item>Bongo_AncientEgyptian_117.mp3</item>
+		<item>Bongo_AncientEgyptian_118.mp3</item>
+		<item>Bongo_AncientEgyptian_119.mp3</item>
+		<item>Bongo_AncientEgyptian_120.mp3</item>
+		<item>Bongo_AncientEgyptian_121.mp3</item>
+		<item>Bongo_AncientEgyptian_122.mp3</item>
+		<item>Bongo_AncientEgyptian_123.mp3</item>
+		<item>Bongo_AncientEgyptian_124.mp3</item>
+	</string-array><string-array name="packArray">
+	    <item>Ancient Eqyptian</item>
+		<item>Arabic</item>
+		<item>English</item>
+		<item>English (Hawking)</item>
+		<item>English (Shakespearean)</item>
+		<item>FireFly (Mandarin)</item>
+		<item>Greek</item>
+		<item>Italian</item>
+		<item>Klingon</item>
+		<item>Latin</item>
+		<item>Spanish</item>
+	</string-array><string-array name="FireflyProfaneArray">
+		<item>愚笨的\nyúbèn de\nStupid, foolish</item>
+		<item>才不是 \ncái bù shì\nNo way</item>
+		<item>什么 \nshénme\nWhat?</item>
+		<item>狗屎 \ngǒushǐ\nDog shit</item>
+		<item>屁股 \npìgu\nButt</item>
+		<item>废话 \nfèihuà\nNonsense</item>
+		<item>天晓得 \ntiānxiǎode\nHeaven knows.</item>
+		<item>闻过屁 \nwén guò pì\nSmell a fart</item>
+		<item>宝贝 \nbǎobèi\nBaby</item>
+		<item>喂 \nwèi\nHey</item>
+		<item>欸 \něi\nHey (emphatic)</item>
+		<item>我的妈。\n Wǒ de mā\nMy God</item>
+		<item>真倒霉 \nzhēn dǎoméi\nWhat bad luck</item>
+		<item>我的天啊。 \nWǒ de tiān a.\nOMG</item>
+		<item>浑蛋 \nhúndàn\nBastard (Stupid egg)</item>
+		<item>糟糕 \nzāogāo\nOh no</item>
+		<item>可恶的老暴君 \nkěwù de lǎo bàojūn\nHorrible old tryant</item>
+		<item>狗操的 \ngǒucàode\nDog humping</item>
+		<item>噢，这真是个快乐的进展。\nŌ, zhè zhēn shì gè kuàilè de jìnzhǎn.\nOh, now this is a really happy development.</item>
+		<item>你他妈的\nNǐ tāmāde\nYou mother fucker</item>
+		<item>天下所有的人都该死。\ntiānxià suǒyǒu de rén dōu gāi sǐ.\nEveryone should die</item>
+		<item>王八蛋 \nwángbādàn.\nAsshole</item>
+		<item>小妹妹 \nxiǎo mèimei\nLittle girl</item>
+		<item> 哎呀！坏了。 \nĀiyā Huàile.\nShite, this is bad</item>
+		<item>狂者的 \nkuángzhěde\nThat`s crazy</item>
+		<item>哎呀。我们完了。 \nĀiyā. Wǒmen wánle.\nOh no we`re finished</item>
+		<item>你们都闭嘴！\nNǐmen dōu bìzuǐ\nEvyerbody shut up</item>
+		<item>闭嘴。 \nBìzuǐ.\nBe quiet</item>
+		<item>真他妈没辙 / \nzhēntāmā de méizhé\nNo fucking way</item>
+		<item>笨天生的一堆肉。・ \nBUN tyen-shung duh ee-DWAY-RO\nStupid Inbred Stack of Meat </item>
+		<item>吸牛 ・\nShee-niou\nCow Sucking</item>
+		<item>狒狒的屁眼 ・ \nFAY-FAY duh PEE-yen\nA Baboon`s Asshole</item>
+		<item>真沒耐性的佛祖 ・\nJen mei NAI-shing duh FWO-tzoo\nExtraordinarily Impatient Buddha</item>
+		<item>熊貓尿\nShiong mao niao\nPanda Piss</item>
+		<item>青蛙操的流氓 \nChing-wah TSAO duh liou mahng\nFrog-Humping Son of a Bitch</item>
+		<item>流口水的婊子和猴子的笨兒子 \nLiou coe shway duh biao-tze huh hoe-tze duh ur-tze\nStupid Son of a Drooling Whore and a Monkey</item>
+		<item>跟猴子比丟屎\nGun HOE-tze bee DIO-se\nHave a Shit-Throwing Contest with a Monkey</item>
+		<item>喝畜生雜交的髒貨 \nHuh choo-shung tza-jiao duh tzang-huo\nFilthy Fornicators of Livestock</item>
+		<item>羔羊中的孤羊 \nGao yang jong duh goo yang\nMotherless Goats of All Motherless Goats</item>
+		<item>我的媽和她的瘋狂的外甥都 \nWuh duh ma huh tah duh fong kwong duh wai shung\nHoly Mother of God and All Her Wacky Nephews</item>
+		<item>太空所有的星球塞盡我的屁股 \nTai-kong suo-yo duh shing-chiou sai-jin wuh duh pee-goo\nShove All the Planets in the Universe Up my Ass</item>
+		<item>大象爆炸式的拉肚子 \nDa-shiang bao-tza shr duh lah doo-tze\nThe Explosive Diarrhea of an Elephant</item>
+		<item>神聖的睾丸 \nShun-SHENG duh gao-WAHN\nHoly Testicle Tuesday</item>
+			    
+	</string-array><string-array name="BongoProfaneFilePathArray">
+		<item>cunt.mp3</item>
+		<item>mother_fucker.mp3</item>
+		<item>fuck.mp3</item>
+		<item>wanker.mp3</item>
+		<item>bastard.mp3</item>
+		<item>prick.mp3</item>
+		<item>bollocks.mp3</item>
+		<item>arsehole.mp3</item>
+		<item>shag.mp3</item>
+		<item>whore.mp3</item>
+		<item>twat.mp3</item>
+		<item>piss_off.mp3</item>
+		<item>spastic.mp3</item>
+		<item>slag.mp3</item>
+		<item>slag2.mp3</item>
+		<item>shit.mp3</item>
+		<item>shit2.mp3</item>
+		<item>knob_head.mp3</item>
+		<item>pissed_off.mp3</item>
+		<item>arse.mp3</item>
+		<item>bugger.mp3</item>
+		<item>balls.mp3</item>
+		<item>jesus_christ.mp3</item>
+		<item>crap.mp3</item>
+		<item>jesus_jospeph_mary_and_the_donkey.mp3</item>
+		<item>god_almighty.mp3</item>
+	</string-array><string-array name="ShakespeareProfaneArray">
+		<item>Thou subtle, perjur`d, false, disloyal man.\nThe Two Gentlemen of Verona</item>
+		<item>Thou art like a toad; ugly and venemous.\nAs You Like It</item>
+		<item>Thine backward voice is to utter foul speeches and to detract\nThe Tempest</item>
+		<item>Thou art a flesh-monger, a fool and a coward.\nMeasure for Measure</item>
+		<item>A most notable coward, an infinite and endless liar\nAlls Well That Ends Well</item>
+		<item>An hourly promise breaker, the owner of no one good quality\nAlls Well That Ends Well</item>
+		<item>Thy tongue outvenoms all the worms of Nile.\nCymbeline</item>
+		<item>You scullion! You rampallian! You fustilarian! I`ll tickle your catastrophe.\nHenry IV Part 2</item>
+		<item>Methink`st thou art a general offence and every man should beat thee.\nAlls Well That Ends Well</item>
+		<item>Thou art as loathsome as a toad\nTroilus and Cressida</item>
+		<item>Thou clay-brained guts\nHenry IV Part 1</item>
+		<item>Thou knotty-pated fool\nHenry IV Part 1</item>
+		<item>Thou whoreson obscene greasy tallow-catch.\nHenry IV Part 1</item>
+		<item>You starvelling, you eel-skin, you dried neat`s-tongue\nHenry IV Part 1</item>
+		<item>You bull`s-pizzle, you stock-fish–O for breath to utter what is like thee.-\nHenry IV Part 1</item>
+		<item>You tailor`s-yard, you sheath, you bow-case, you vile standing tuck.\nHenry IV Part 1</item>
+		<item>Peace, ye fat guts.\nHenry IV Part 1</item>
+		<item>Thou poisonous bunch-back`d toad.\nHenry IV Part 1</item>
+		<item>Thou art unfit for any place but hell\nRichard III</item>
+		<item>Your virginity breeds mites, much like a cheese.\nRichard III</item>
+		<item>Thou are pigeon-liver`d and lack gall.\nAlls Well That Ends Well</item>
+		<item>You are as a candle, the better burnt out.\nHamlet</item>
+		<item>Thy sin`s not accidental, but a trade.\nHenry IV Part 1</item>
+		<item>Clod of wayward marl\nMeasure for Measure</item>
+		<item>Thou elvish-mark`d, abortive, rooting hog\nMuch Ado About Nothing</item>
+		<item>Dread prince of plackets, king of codpieces\nRichard III</item>
+		<item>That trunk of humours, That bolting-hutch of beastliness\nLove`s labour`s Lost</item>
+		<item>That swollen parcel of dropsies,that huge bombard of sack \nHenry IV Part 1</item>
+		<item>That stuffed cloak-bag of guts, that roasted Manningtree ox with the pudding in his belly\nHenry IV Part 1</item>
+		<item>That reverance vice, that grey iniquity, that father ruffian, that vanity of years.\nHenry IV Part 1</item>
+		<item>Is not your voice broken, your wind short, your chin double, your wit single, and every part about you blasted with antiquity?\nHenry IV Part 1</item>
+		<item>When the age is in, the wit is out.\nHenry IV Part 1</item>
+		<item>Veriest varlet that ever chewed with a tooth\nMuch Ado About Nothing</item>
+		<item>Why, thou picture of what thou scemest, and idol of idiot-worshippers, here`s a letter for thee\nThe Tempest</item>
+		<item>The devil damn thee black, thou cream-faced loon\nTroilus and Cressida</item>
+		<item>Thou art a boil, A plague-sore, an embossed carbuncle\nMacbeth</item>
+		<item>Blush, blush, thou lump of foul deformity\nKing Lear</item>
+		<item>Thou crusty botch of nature\nRichard III</item>
+		<item>Ah, you whoreson loggerhead, you were born to do me shame\nTroilus and Cressida</item>
+		<item>Away, Thou art poison to my blood\nLove`s labour`s Lost</item>
+		<item>An inhuman wretch, uncapable of pity, void and empty from any dram of mercy \nCymbeline</item>
+		<item>A slave whose gall coins slanders like a mint\nThe Merchant of Venice</item>
+		<item>A monster, a very monster in apparel\nTroilus and Cressida</item>
+		<item>A foul and pestilent congregation of vapours. \nThe Taming of the Shrew</item>
+		<item>What a piece of work is man.\nThe Taming of the Shrew</item>
+		<item>Base dunghill villain and mechanical, I`ll have thy head\nHamlet</item>
+		<item>Boils and plagues plaster you over\nHenry VI Part 2</item>
+		<item>That you may be abhorred farther than seen and one infect another against the wind a mile. \nHenry VI Part 2</item>
+		<item>You souls of geese that bear the shapes of men\nHenry VI Part 2</item>
+		<item>Contemptuous base born callet\nCorialanus</item>
+		<item>Curtailed of this fair proportion, cheated of feature by dissembling nature, deformed, unfinished\nHenry VI Part 2</item>
+		<item>Damn her, lewd minx\nRichard III</item>
+		<item>Deep, hollow, treacherous and full of guile\nOthello</item>
+		<item>Despised substance of divinest show\nRichard III</item>
+		<item>Dissembling harlot, thou are false in all \nRomeo and Juliet</item>
+		<item>False of heart, light of ear\nComedy of Errors</item>
+		<item>Bloody of hand, hog in sloth\nComedy of Errors</item>
+		<item>Fox in stealth, wolf in greediness\nComedy of Errors</item>
+		<item>Dog in madness, lion in prey\nComedy of Errors</item>
+		<item>Foul spoken coward, that thund`rest with thy tongue\nKing Lear</item>
+		<item>From the extremest upward of thy head to the descent and dust beneath thy foot, a most toad spotted traitor\nTitus Andronicus</item>
+		<item>Hang yourself, you muddy conger \nKing Lear</item>
+		<item>Hang, beg, starve, die in the streets\nHenry IV Part 2</item>
+		<item>How foul and loathsome is thine image \nRomeo And Juliet</item>
+		<item>His kisses are Judas`s own children\nThe Taming of the Shrew</item>
+		<item>[Thy] kiss is comfortless as frozen water to a starved snake\nAnthony and Cleopatra</item>
+		<item>Thy bones are hollow; impiety has mad a feast of thee.\nTroilus and Cressida</item>
+		<item>[Thou] vicious mole of nature.\nMeasure for Measure</item>
+		<item>Drop into the rotten mouth of death\nHamlet</item>
+		<item>Hence rotten thing.  \nRichard III</item>
+		<item>I shall shake thy bones out of thy garments.\nRichard III</item>
+		<item>[Thou] blunt monster with uncounted heads.\nCorialanus</item>
+		<item>Thou wilt fall backward when thou hast more wit.\nHenry IV Part 2</item>
+		<item>[Your] brain is as dry as the remainder biscuit after a voyage.\nRomeo and Juliet</item>
+		<item>[Thou] rump-fed ronyon.\nAs You Like It</item>
+		<item>Idol of idiot-worshippers.\nMacBeth</item>
+		<item>Thou wilt be as valiant as the wrathful dove, or most magnanimous mouse\nTroilus and Cressida</item>
+		<item>A fool go with thy soul, whither it goes.\nHenry IV</item>
+		<item>You are a shallow cowardly hind, and you lie.\nHenry IV</item>
+	</string-array><string-array name="SpanishProfaneArray">
+	    <item>Me cago en tu puta madre\nI shit on your mother</item>
+		<item>Cabron\nMild invective - literally "male goat"</item>
+		<item>Que te folle un pez\nI hope you get fucked by a fish</item>
+		<item>Me cago en todo lo que se menea\nI shit one everything that moves</item>
+		<item>Me cago en tus muertos\nI shit on your dead!</item>
+		<item>Me cago en la madre que te pario\nI shit on the mother gave birth to you</item>
+		<item>Métetelo por el culo\nStick it up your arse</item>
+		<item>Vete a tomar por el culo\nGo take it in the arse</item>
+		<item>Joder\nFuck!</item>
+		<item>Gilipollas\nAsshole (Son of a cock)</item>
+		<item>La hostia\nThe host</item>
+		<item>Mierda\nShit!</item>
+		<item>Me cago en tu leche\nI shit in your milk</item>
+		<item>Chinga tu madre \nFuck your mother</item>
+		<item>Tu madre es una puta fea\nYour mother is an ugly whore</item>
+		<item>Chinga tu madre \nI fucked your mother</item>
+		<item>Chinga usted\nFuck you</item>
+		<item>Pinche puta\nFucking bitch</item>
+		<item>La concha de tu madre\nYour mother`s cunt</item>
+		<item>Tu madre es una puta\nYour mother mother is a whore</item>
+		<item>Pendejo\nAsshole</item>
+		<item>La chingada\n"The fucked one"</item>
+		<item>Hijo de la chingada\nSon of the fucked one</item>
+		<item>Cojones\nBollocks!</item>
+		<item>Hijo de puta\nSon of a bitch</item>
+		<item>Que chingados\nWhat the fuck?</item>
+		<item>Cojeme\nFuck me</item>
+		<item>Bastardo\nBastard</item>
+		<item>Besa mi culo\nKiss my ass</item>
+		<item>Joto\nGaylord</item>
+		<item>Maricon\nFaggot</item>
+		<item>Puto\nMan-whore</item>
+		<item>Chorra\nStupid</item>
+		<item>Kieta el stupido elephante\nShut up you stupid elephant</item>
+		<item>Tu eres más feo que el culo de un mono \nYou are uglier than a monkey`s arse</item>
+		<item>Coño\nCunt</item>
+		<item>Capullo\nDickhead</item>
+		<item>Tonto del culo\nIdiot of the arse</item>
+		<item>Vete a la verga culero \nScrew you - literally go to a dick</item>
+		<item>Pinche idiota\nFucking idiot</item>
+		<item>Verga\nDick</item>
+		<item>Baboso\nRetard</item>
+		<item>Jodetee\nFuck you</item>
+		<item>Maraquita\nGaylord</item>
+		<item>Eres tan estupido como un perro\nYou are as stupid as a dog</item>
+		<item>Callate el osico gordota\nShut your snout fatty</item>
+		<item>Zorra\nSlut</item>
+		<item>Un coñazo\nA giant cunt</item>
+		<item>Huevos\nBalls (literally eggs)</item>
+		<item>Pelotas\nBalls</item>
+	 </string-array><string-array name="ItalianProfaneArray">
+		<item>Figa\nCunt. Literally "fig"</item>
+		<item>Dio dannato\nGod dammit. Lierally "pig of a god"</item>
+		<item>Vaffanculo\nGo fuck yourself in the face.</item>
+		<item>Figlio di puttana\nSon of a whore</item>
+		<item>Rottinculo\n"Broken Asshole"</item>
+		<item>De li mortacci tua! \n“Damn the souls of your dead ancestors."</item>
+		<item>i parcheggio le mani in faccia!\nLiterally: "I`ll park my hands in your face!". I’ll punch your lights out.</item>
+		<item>Cazzo in culo non far figli, ma fa male se lo pigli \nGetting fucked in the arse doesn’t get you pregnant, but it still hurts if you take it</item>
+		<item>Bastardo\nBastard</item>
+		<item>Bocchino\nBlowjob</item>
+		<item>Carogna\nAsshole. Literally "Carrion"</item>
+		<item>Cazzo\nDick</item>
+		<item>Cazzone\nPrick</item>
+		<item>Che cazzo vuoi?\nWhat the fuck do you want?</item>
+		<item>Fanculo\nFuck off</item>
+		<item>Finocchio\nFag, homosexual</item>
+		<item>Vai e fottiti!\nGo fuck yourself</item>
+		<item>Rotta in culo\nGo fuck yourself. Literally "Breaking in your ass"</item>
+		<item>Brutto figlio di puttana bastardo\nUngly son of bitch bastard</item>
+		<item>Cagna\nBitch</item>
+		<item>Figlio fi mignotta\nSon of a bitch. Literally "son of a whore"</item>
+		<item>Piglisinculo\nSpineless coward. Literally "one who takes it up the arse" </item>
+		<item>Puttana\nWhore, prostitute.</item>
+		<item>Succiacazzi\nCocksucker</item>
+		<item>Vada a bordo, cazzo\nGet the fuck onboard, dick.  Infamously said to the captain of the Costa Concordia</item>
+		<item>Frocio\nHomo</item>
+		<item>Coglioni\nBalls</item>
+		<item>Porca puttana\nPig of a whore</item>
+		<item>Stronzo\n"Piece of shit". Asshole</item>
+		<item>Teat di cazzo\nDickhead</item>
+		<item>Che cazzo?\n"What the dick?"</item>
+		<item>Zoccola\nSlut</item>
+		<item>Mangia merda\nEat shit</item>
+		<item>Non prendermi per il culo\nLiterally,"Don`t take me from my ass". Don`t fuck with me!</item>
+		<item>Non mi rompere i coglioni\n"Don't break my balls"</item>
+		<item>Merda\nShit!</item>
+		<item>Pompino\nBlowjob</item>
+		<item>Into culo di mammato\nUp your mother`s ass.</item>
+		<item>Ce l`hai piccolo\nYou have a small dick</item>
+		<item>Leccami il culo\nLick my ass</item>
+		<item>Una figa di legno\nFrigid, untouchable woman. A pussy made from wood.</item>
+		<item>Mignotta\nWhore</item>
+		<item>Minchia\nDick! Exclamation.</item>
+		<item>Porca Madonna\nPig Virgin Mary</item>
+		<item>Sei una scopa in culo!\nLiterally "Like a broom in the arse". Stuck up, stiff, aloof.</item>
+		<item>Ghe sboro!\nDamn! Venetian dialect. Sounds a like "sbora" to ejaculate.</item>
+		<item>Troia\nBitch. Lierally "sow"</item>
+		<item>Piscialetto\nBed pisser!</item>
+		<item>Avere i coglioni peine\nPissed off, literally "to have filled testicles". </item>
+		<item>E una cagata\nBullshit</item>
+		<item>Che palle\nBoring, dull. Literally "what balls"</item>
+		<item>Meretrice\nProstitute</item>
+		<item>Maledetto idiota\nDamned idiot</item>
+		<item>Spaccare il culo ai passeri!\nLiterally, "Smash the little birds asses"</item>
+		<item>Na botta gliela darei\nI`d tap that ass!</item>
+		<item>Se e’ franco, ungimi tutto\nIf it`s free, grease me up! </item>
+		<item>Cavolo!\nDamn! Literally "cabbage"</item>
+		<item>Cretino\nCretin</item>
+		<item>Mannaggia\nDamn!</item>
+		<item>Citrullo\nDoofus. Literally "Cucumber"</item>
+		<item>Me ne frego\nI don`t give a damn.</item>
+	    
+	</string-array><string-array name="SpanishFilePathArray">
+		<item>Bongo_Spanish_001.mp3</item>
+		<item>Bongo_Spanish_007.mp3</item>
+		<item>Bongo_Spanish_005.mp3</item>
+		<item>Bongo_Spanish_009.mp3</item>
+		<item>Bongo_Spanish_010.mp3</item>
+		<item>Bongo_Spanish_011.mp3</item>
+		<item>Bongo_Spanish_033.mp3</item>
+		<item>Bongo_Spanish_050.mp3</item>
+		<item>Bongo_Spanish_002.mp3</item>
+		<item>Bongo_Spanish_003.mp3</item>
+		<item>Bongo_Spanish_004.mp3</item>
+		<item>Bongo_Spanish_008.mp3</item>
+		<item>Bongo_Spanish_012.mp3</item>
+		<item>Bongo_Spanish_017.mp3</item>
+		<item>Bongo_Spanish_024.mp3</item>
+		<item>Bongo_Spanish_025.mp3</item>
+		<item>Bongo_Spanish_016.mp3</item>
+		<item>Bongo_Spanish_021.mp3</item>
+		<item>Bongo_Spanish_022.mp3</item>
+		<item>Bongo_Spanish_023.mp3</item>
+		<item>Bongo_Spanish_030.mp3</item>
+		<item>Bongo_Spanish_048.mp3</item>
+		<item>Bongo_Spanish_049.mp3</item>
+		<item>Bongo_Spanish_006.mp3</item>
+		<item>Bongo_Spanish_013.mp3</item>
+		<item>Bongo_Spanish_018.mp3</item>
+		<item>Bongo_Spanish_015.mp3</item>
+		<item>Bongo_Spanish_026.mp3</item>
+		<item>Bongo_Spanish_027.mp3</item>
+		<item>Bongo_Spanish_028.mp3</item>
+		<item>Bongo_Spanish_029.mp3</item>
+		<item>Bongo_Spanish_031.mp3</item>
+		<item>Bongo_Spanish_035.mp3</item>
+		<item>Bongo_Spanish_036.mp3</item>
+		<item>Bongo_Spanish_037.mp3</item>
+		<item>Bongo_Spanish_038.mp3</item>
+		<item>Bongo_Spanish_039.mp3</item>
+		<item>Bongo_Spanish_014.mp3</item>
+		<item>Bongo_Spanish_019.mp3</item>
+		<item>Bongo_Spanish_020.mp3</item>
+		<item>Bongo_Spanish_032.mp3</item>
+		<item>Bongo_Spanish_034.mp3</item>
+		<item>Bongo_Spanish_040.mp3</item>
+		<item>Bongo_Spanish_041.mp3</item>
+		<item>Bongo_Spanish_042.mp3</item>
+		<item>Bongo_Spanish_043.mp3</item>
+		<item>Bongo_Spanish_044.mp3</item>
+		<item>Bongo_Spanish_045.mp3</item>
+		<item>Bongo_Spanish_046.mp3</item>
+		<item>Bongo_Spanish_047.mp3</item>
+	    
+	</string-array><string-array name="KlingonProfaneArray">
+	    <item>hab sosI` Quch\n"Your mother has a smoooth forehead"</item>
+		<item>QI`yaH\nOne of the most foul Klingon expletives - which defies translation</item>
+		<item>BiHnuch\n"Coward" </item>
+		<item>bortaS bIr jablu DI` reH QaQqu`nay\nRevenge is a dish best served cold. A threat. Run</item>
+		<item>urwI`\nTraitor</item>
+		<item>Qu`vath guy`cha v`aka\nLiterally "A hundred tasks [General invective], Watch it"</item>
+		<item>ghuy`cha`\nCurse. Similar to "Damn". More robust than "ghay`cha`"</item>
+		<item>Hu`tegh\n"Fuck"</item>
+		<item>jay`\n"Blody Hell". Intense term of censure, reproachment.</item>
+		<item>lam be`\n"Dirty Woman"</item>
+		<item>lo`Be Vos\nA thing without courage</item>
+		<item>R`oiaro\nExclamation. Meaning conjectural.</item>
+		<item>taHqeq\nClassic Thlingan insult.</item>
+		<item>qagh Sopbe`\n"He doesn`t eat gagh"</item>
+		<item>Ha`DI bah\n"Animal"</item>
+		<item>p`tahk\n"Freak" or "Weirdo". Common Klingon insult.</item>
+		<item>ghay`cha`\nGenerally abusive term of censure.</item>
+		<item>Qovpatlh\n"Infradig",  "unworthy" exclamation, epithet</item>
+		<item>bIjatlh `e` yImev\n"Shut Up"</item>
+		<item>maQDar\nArthropodan creature. Boogeyman</item>
+		<item>YIntagh\nExclamation. Literally "Life Support System". Conjecturally "Windbag", "Cripple"</item>
+		<item>VorSaq\nSomething which when rotton has a noxious smell</item>
+		<item>HuH\n"Bile"</item>
+		<item>qoH\n"Fool"</item>
+		<item>veQnuj\n"Garbage mouth"</item>
+		<item>t`ooho`mIrah\nA "useless article"</item>
+		<item>toppa`\nA type of animal (useless)</item>
+		<item>baQa`\n"Watch it" (Conjecturally)</item>
+		<item>korut\n"Greedy" </item>
+		<item>mu`qaD\n"Curse" (Winged-words)</item>
+		<item>Qa`Hom\n"Titmouse" a small timid animal.</item>
+		<item>tu`HomIraH\n"Good for nothing"</item>
+		<item>maw` tok\n"Crazy... ". Exclamation</item>
+		<item>pah\n"Pah". Yes really. Or "Nada, nothing, no-one"</item>
+		<item>t`gla\nA mindless animal native to Kronos.</item>
+		<item>DorSo`gha\nKlingonese curse. Meaning unknown.</item>
+		<item>ko`tal\nDerogatory epithet</item>
+		<item>plaQta`\n"Child"</item>
+		<item>Qu`vatlh\n"A hundred tasks" Offensive interjection/exclamation.</item>
+		<item>wejpuH\n"Charming" (Ironic)</item>
+		<item>mu`qaD veS\n"Curse-Warfare" (Slanging match)</item>
+		<item>tIch\nVerb - to speak in such a way so as to cause dishonour or offence.</item>
+		<item>tojo`Qa`\nExpletive born of frustration</item>
+		<item>veQ\n"Rubbish"</item>
+		<item>qapeQ\nA mild insult "Douchebag". Precise meaning unknown.</item>
+		<item>ToDSaH\nGeneral insult - used for somone not on the best of terms.</item>
+		<item>va\nShortened form of Qu`vatlh. Mild invective.</item>
+		<item>Baktag\nAn insult, as in a "piece of baktag". Precise meaning conjectural.</item>
+	    <item>DenIb Qatlh\nDenebian slime devil</item>
+		<item>pujwI`\nWeakling</item>
+		
+	</string-array><string-array name="ItalianFilePathArray">	
+	    <item>Bongo_Italian_012.mp3</item>
+		<item>Bongo_Italian_022.mp3</item>
+		<item>Bongo_Italian_024.mp3</item>
+		<item>Bongo_Italian_025.mp3</item>
+		<item>Bongo_Italian_037.mp3</item>
+		<item>Bongo_Italian_001.mp3</item>
+		<item>Bongo_Italian_002.mp3</item>
+		<item>Bongo_Italian_003.mp3</item>
+		<item>Bongo_Italian_013.mp3</item>
+		<item>Bongo_Italian_014.mp3</item>
+		<item>Bongo_Italian_016.mp3</item>
+		<item>Bongo_Italian_017.mp3</item>
+		<item>Bongo_Italian_018.mp3</item>
+		<item>Bongo_Italian_019.mp3</item>
+		<item>Bongo_Italian_023.mp3</item>
+		<item>Bongo_Italian_026.mp3</item>
+		<item>Bongo_Italian_027.mp3</item>
+		<item>Bongo_Italian_036.mp3</item>
+		<item>Bongo_Italian_043.mp3</item>
+		<item>Bongo_Italian_015.mp3</item>
+		<item>Bongo_Italian_030.mp3</item>
+		<item>Bongo_Italian_032.mp3</item>
+		<item>Bongo_Italian_034.mp3</item>
+		<item>Bongo_Italian_039.mp3</item>
+		<item>Bongo_Italian_042.mp3</item>
+		<item>Bongo_Italian_053.mp3</item>
+		<item>Bongo_Italian_020.mp3</item>
+		<item>Bongo_Italian_035.mp3</item>
+		<item>Bongo_Italian_038.mp3</item>
+		<item>Bongo_Italian_040.mp3</item>
+		<item>Bongo_Italian_044.mp3</item>
+		<item>Bongo_Italian_047.mp3</item>
+		<item>Bongo_Italian_052.mp3</item>
+		<item>Bongo_Italian_006.mp3</item>
+		<item>Bongo_Italian_021.mp3</item>
+		<item>Bongo_Italian_028.mp3</item>
+		<item>Bongo_Italian_033.mp3</item>
+		<item>Bongo_Italian_045.mp3</item>
+		<item>Bongo_Italian_049.mp3</item>
+		<item>Bongo_Italian_051.mp3</item>
+		<item>Bongo_Italian_008.mp3</item>
+		<item>Bongo_Italian_029.mp3</item>
+		<item>Bongo_Italian_031.mp3</item>
+		<item>Bongo_Italian_046.mp3</item>
+		<item>Bongo_Italian_007.mp3</item>
+		<item>Bongo_Italian_010.mp3</item>
+		<item>Bongo_Italian_041.mp3</item>
+		<item>Bongo_Italian_055.mp3</item>
+		<item>Bongo_Italian_059.mp3</item>
+		<item>Bongo_Italian_056.mp3</item>
+		<item>Bongo_Italian_060.mp3</item>
+		<item>Bongo_Italian_061.mp3</item>
+		<item>Bongo_Italian_062.mp3</item>
+		<item>Bongo_Italian_004.mp3</item>
+		<item>Bongo_Italian_005.mp3</item>
+		<item>Bongo_Italian_009.mp3</item>
+		<item>Bongo_Italian_011.mp3</item>
+		<item>Bongo_Italian_050.mp3</item>
+		<item>Bongo_Italian_054.mp3</item>
+		<item>Bongo_Italian_057.mp3</item>
+		<item>Bongo_Italian_058.mp3</item>
+	    
+	</string-array><string-array name="HawkingFilePathArray">
+		<item>Hawking_English_001.mp3</item>
+		<item>Hawking_English_002.mp3</item>
+		<item>Hawking_English_003.mp3</item>
+		<item>Hawking_English_004.mp3</item>
+		<item>Hawking_English_005.mp3</item>
+		<item>Hawking_English_006.mp3</item>
+		<item>Hawking_English_007.mp3</item>
+		<item>Hawking_English_008.mp3</item>
+		<item>Hawking_English_009.mp3</item>
+		<item>Hawking_English_010.mp3</item>
+		<item>Hawking_English_011.mp3</item>
+		<item>Hawking_English_012.mp3</item>
+		<item>Hawking_English_013.mp3</item>
+		<item>Hawking_English_014.mp3</item>
+		<item>Hawking_English_015.mp3</item>
+		<item>Hawking_English_016.mp3</item>
+		<item>Hawking_English_017.mp3</item>
+		<item>Hawking_English_018.mp3</item>
+		<item>Hawking_English_019.mp3</item>
+		<item>Hawking_English_020.mp3</item>
+		<item>Hawking_English_021.mp3</item>
+		<item>Hawking_English_022.mp3</item>
+		<item>Hawking_English_023.mp3</item>
+		<item>Hawking_English_024.mp3</item>
+	</string-array><string-array name="packArrayValues">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+	</string-array><string-array name="ArabicFilePathArray">
+			<item>Bongo_Arabic_002.mp3</item>
+			<item>Bongo_Arabic_001.mp3</item>
+			<item>Bongo_Arabic_003.mp3</item>
+			<item>Bongo_Arabic_004.mp3</item>
+			<item>Bongo_Arabic_005.mp3</item>
+			<item>Bongo_Arabic_006.mp3</item>
+			<item>Bongo_Arabic_007.mp3</item>
+			<item>Bongo_Arabic_008.mp3</item>
+			<item>Bongo_Arabic_009.mp3</item>
+			<item>Bongo_Arabic_010.mp3</item>
+			<item>Bongo_Arabic_011.mp3</item>
+			<item>Bongo_Arabic_012.mp3</item>
+			<item>Bongo_Arabic_013.mp3</item>
+			<item>Bongo_Arabic_014.mp3</item>
+			<item>Bongo_Arabic_015.mp3</item>
+			<item>Bongo_Arabic_016.mp3</item>
+			<item>Bongo_Arabic_017.mp3</item>
+			<item>Bongo_Arabic_018.mp3</item>
+			<item>Bongo_Arabic_019.mp3</item>
+			<item>Bongo_Arabic_020.mp3</item>
+			<item>Bongo_Arabic_021.mp3</item>
+			<item>Bongo_Arabic_022.mp3</item>
+			<item>Bongo_Arabic_023.mp3</item>
+			<item>Bongo_Arabic_024.mp3</item>
+			<item>Bongo_Arabic_025.mp3</item>
+			<item>Bongo_Arabic_026.mp3</item>
+			<item>Bongo_Arabic_027.mp3</item>
+			<item>Bongo_Arabic_028.mp3</item>
+			<item>Bongo_Arabic_029.mp3</item>
+			<item>Bongo_Arabic_030.mp3</item>
+			<item>Bongo_Arabic_031.mp3</item>
+			<item>Bongo_Arabic_032.mp3</item>
+			<item>Bongo_Arabic_033.mp3</item>
+			<item>Bongo_Arabic_034.mp3</item>
+			<item>Bongo_Arabic_035.mp3</item>
+			<item>Bongo_Arabic_036.mp3</item>
+			<item>Bongo_Arabic_037.mp3</item>
+			<item>Bongo_Arabic_038.mp3</item>
+			<item>Bongo_Arabic_039.mp3</item>
+			<item>Bongo_Arabic_040.mp3</item>
+			<item>Bongo_Arabic_041.mp3</item>
+			<item>Bongo_Arabic_042.mp3</item>
+			<item>Bongo_Arabic_043.mp3</item>
+			<item>Bongo_Arabic_044.mp3</item>
+			<item>Bongo_Arabic_045.mp3</item>
+			<item>Bongo_Arabic_046.mp3</item>
+			<item>Bongo_Arabic_047.mp3</item>
+			<item>Bongo_Arabic_048.mp3</item>
+			<item>Bongo_Arabic_049.mp3</item>
+			<item>Bongo_Arabic_050.mp3</item>
+			<item>Bongo_Arabic_051.mp3</item>
+</string-array><string-array name="ShakespeareFilePathArray">
+			<item>Bongo_Shakespeare_001.mp3</item>
+			<item>Bongo_Shakespeare_002.mp3</item>
+			<item>Bongo_Shakespeare_003.mp3</item>
+			<item>Bongo_Shakespeare_004.mp3</item>
+			<item>Bongo_Shakespeare_005.mp3</item>
+			<item>Bongo_Shakespeare_005_1.mp3</item>
+			<item>Bongo_Shakespeare_006.mp3</item>
+			<item>Bongo_Shakespeare_007.mp3</item>
+			<item>Bongo_Shakespeare_008.mp3</item>
+			<item>Bongo_Shakespeare_009.mp3</item>
+			<item>Bongo_Shakespeare_010_1.mp3</item>
+			<item>Bongo_Shakespeare_010_2.mp3</item>
+			<item>Bongo_Shakespeare_010_3.mp3</item>
+			<item>Bongo_Shakespeare_011_1.mp3</item>
+			<item>Bongo_Shakespeare_011_2.mp3</item>
+			<item>Bongo_Shakespeare_011_3.mp3</item>
+			<item>Bongo_Shakespeare_012.mp3</item>
+			<item>Bongo_Shakespeare_013.mp3</item>
+			<item>Bongo_Shakespeare_014.mp3</item>
+			<item>Bongo_Shakespeare_015.mp3</item>
+			<item>Bongo_Shakespeare_016.mp3</item>
+			<item>Bongo_Shakespeare_017.mp3</item>
+			<item>Bongo_Shakespeare_018.mp3</item>
+			<item>Bongo_Shakespeare_019.mp3</item>
+			<item>Bongo_Shakespeare_020.mp3</item>
+			<item>Bongo_Shakespeare_021.mp3</item>
+			<item>Bongo_Shakespeare_022_1.mp3</item>
+			<item>Bongo_Shakespeare_022_2.mp3</item>
+			<item>Bongo_Shakespeare_022_3.mp3</item>
+			<item>Bongo_Shakespeare_022_4.mp3</item>
+			<item>Bongo_Shakespeare_023.mp3</item>
+			<item>Bongo_Shakespeare_024.mp3</item>
+			<item>Bongo_Shakespeare_025.mp3</item>
+			<item>Bongo_Shakespeare_026.mp3</item>
+			<item>Bongo_Shakespeare_027.mp3</item>
+			<item>Bongo_Shakespeare_028.mp3</item>
+			<item>Bongo_Shakespeare_029.mp3</item>
+			<item>Bongo_Shakespeare_030.mp3</item>
+			<item>Bongo_Shakespeare_031.mp3</item>
+			<item>Bongo_Shakespeare_032.mp3</item>
+			<item>Bongo_Shakespeare_033.mp3</item>
+			<item>Bongo_Shakespeare_034.mp3</item>
+			<item>Bongo_Shakespeare_035.mp3</item>
+			<item>Bongo_Shakespeare_036.mp3</item>
+			<item>Bongo_Shakespeare_036_1.mp3</item>
+			<item>Bongo_Shakespeare_037.mp3</item>
+			<item>Bongo_Shakespeare_038.mp3</item>
+			<item>Bongo_Shakespeare_038_1.mp3</item>
+			<item>Bongo_Shakespeare_038_2.mp3</item>
+			<item>Bongo_Shakespeare_039.mp3</item>
+			<item>Bongo_Shakespeare_040.mp3</item>
+			<item>Bongo_Shakespeare_041.mp3</item>
+			<item>Bongo_Shakespeare_042.mp3</item>
+			<item>Bongo_Shakespeare_043.mp3</item>
+			<item>Bongo_Shakespeare_044.mp3</item>
+			<item>Bongo_Shakespeare_045_1.mp3</item>
+			<item>Bongo_Shakespeare_045_2.mp3</item>
+			<item>Bongo_Shakespeare_045_3.mp3</item>
+			<item>Bongo_Shakespeare_045_4.mp3</item>
+			<item>Bongo_Shakespeare_046.mp3</item>
+			<item>Bongo_Shakespeare_047.mp3</item>
+			<item>Bongo_Shakespeare_048.mp3</item>
+			<item>Bongo_Shakespeare_049.mp3</item>
+			<item>Bongo_Shakespeare_050.mp3</item>
+			<item>Bongo_Shakespeare_051.mp3</item>
+			<item>Bongo_Shakespeare_052.mp3</item>
+			<item>Bongo_Shakespeare_053.mp3</item>
+			<item>Bongo_Shakespeare_054.mp3</item>
+			<item>Bongo_Shakespeare_055.mp3</item>
+			<item>Bongo_Shakespeare_056.mp3</item>
+			<item>Bongo_Shakespeare_057.mp3</item>
+			<item>Bongo_Shakespeare_058.mp3</item>
+			<item>Bongo_Shakespeare_059.mp3</item>
+			<item>Bongo_Shakespeare_060.mp3</item>
+			<item>Bongo_Shakespeare_061.mp3</item>
+			<item>Bongo_Shakespeare_062.mp3</item>
+			<item>Bongo_Shakespeare_063.mp3</item>
+			<item>Bongo_Shakespeare_064.mp3</item>
+			<item>Bongo_Shakespeare_065.mp3</item>
+	</string-array><string-array name="HawkingProfaneArray">
+		<item>Cunt.\nVulgar slang. Female genitalia. An objectionable person.</item>
+		<item>Mother Fucker.\nTerm of rebuke for an irritating or ridiculous person.</item>
+		<item>Fuck.\nTo have sex with. To express annoyance, contempt, or impatience</item>
+		<item>Wanker.\nSomeone who masturbates. A contemptible person.</item>
+		<item>Bastard.\nA person born of parents not married to each other. An unpleasant or dispicable person.</item>
+		<item>Prick.\nMale genetalia, penis. Term of censure for an individual.</item>
+		<item>Bollocks.\nMale genitalia, testicles. Expression of doubt.</item>
+		<item>Arsehole.\nAnus. Derisive term for a stupid or irritating person.</item>
+		<item>Shag.\nTo have sexual intercourse with. </item>
+		<item>Whore.\nA prostitute, sexually promiscuous woman</item>
+		<item>Twat.\nFemale genitalia. An objectionable person. Moderately offensive.</item>
+		<item>Piss Off.\nInstruction to leave alone, or go away, immediately.</item>
+		<item>Spastic.\nVernacular term for a disabled person.</item>
+		<item>Slag.\nSexually promiscuous woman.</item>
+		<item>Shit.\nFaeces. Exclamation of surprise.</item>
+		<item>Knob Head.\nTerm of rebuke for an objectionable person. "Knob" is a slang term for penis.</item>
+		<item>Pissed Off.\nExasperated, despairing.</item>
+		<item>Arse.\nBottom, buttocks, anus.</item>
+		<item>Bugger.\nThe act of sodomy, or an individual who practices sodomy.</item>
+		<item>Balls.\nTesticles. Mildly offensive.</item>
+		<item>Jesus Fucking Christ.\nSon of God in the Christian doctrine. Exclamation of surpise</item>
+		<item>Crap.\n Faeces, excrement. Exclamation, interjection.</item>
+		<item>Jesus, Joseph, Mary, And The Little Fucking Donkey.\nWhimsically offensive religious exclamation.</item>
+		<item>God All-Fucking-Mighty.\nInterjection, exclamation</item>
+	</string-array><string-array name="ArabicProfaneArray">	
+		<item>كس أمك. \nkuss ummak\nYour mother`s cunt</item>
+		<item>روح في ستين ألف داهية \nruuH fi sittiin alf dahya\nGo to sixty thousand hells</item>
+		<item>ابن الشرموطة \nibn iš-šarmuuTa\nSon of a whore</item>
+		<item>ابن القحبة\n ibn il-`aHba\nSon of a whore</item>
+		<item>ابن المتناكة \nibn il-mitnaaka\nSon of a whore</item>
+		<item>ابن اللبوة\n ibn il-labwa\nSon of a lioness</item>
+		<item>فشّخ \nfaššax\n"To spread something widely," (like your mum`s legs!)</item>
+		<item>مخه جزمة\nmoxxu gazma\nHis mind is (as low and dirty as) a shoe</item>
+		<item>هو عاوز الضرب بستين جزمة.\nhowa 3aawiz iD-Darb bi-sittiin gazma\nHe deserves to be hit with sixty shoes</item>
+		<item>يا جزمة يا ابن الجزمة\nya gazma yibn ig-gazma\nYou shoe, you son of a shoe</item>
+		<item>جاتك داهية.\ngaatak dahya\nGo to hell</item>
+		<item>جاتك نيلة.\ngaatak niila\nGo to hell</item>
+		<item>كذاب\n kaddaab\nLiar</item>
+		<item>حرامي \n Haraami\nThief</item>
+		<item>نصاب\n naSSaab\nSwindler</item>
+		<item>خرة\n xara\nShit!</item>
+		<item>سخة\nšaxxa\nPiss!</item>
+		<item>ناك - ينيك\nnaak - yiniik\nFuck!</item>
+		<item>بيضان\nbeiDan\nBollocks!</item>
+		<item>وبيت اللي خلّفوك\nwa-beit illi xallafuuk\n…and the house of those who gave birth to you</item>
+		<item>طز فيك\nTozz fiik\nScrew you</item>
+		<item>الله ينعل أبوك.\nallaah yin3al abuuk\nMay God curse your father</item>
+		<item>طيزك حمرا.\nTiizak Hamra.\nYour ass is red</item>
+		<item>ياتك داهية تخدك\nyaatak dahya taxdak\nI hope a disaster takes you. </item>
+		<item>وسخ\n wisix\nDirty, filthy (has connotations of moral filth as well)</item>
+		<item>علق \n 3il` \nFaggot</item>
+		<item>ابن الوسخة \nibn il-wisxa\nSon of a filthy woman</item>
+		<item>اطفح بسمّ الهاري.\niTfaH be-somm el-haari\nEat burning poison</item>
+		<item>ياتك ضربة في قلبك.\nyaatak Darba fi `albak\nDrop dead, literally - "I hope your heart gets hit"</item>
+		<item>يلعن أبو أمك.\nyil3an abu ommak\nCurse your mother`s father</item>
+		<item>مالوش زبر.\nmaluuš zobr\nHe has no dick.</item>
+		<item>سافل\n saafil\nBase, loathsome, varmint</item>
+		<item>خول \n xawa\nFaggot</item>
+		<item>ابن كلب\nibn kalb \nSon of a dog</item>
+		<item>يخرب بيتك.\nyixrib beitak\nMay God destroy your house</item>
+		<item>قليل\naliil\nShameless</item>
+		<item>مخنث\n moxannas\nEffeminate, sissy</item>
+		<item>ابن العرص\n ibn il-3arS\nSon of a pimp</item>
+		<item>أحا \naHHa\nAn interjection expressing frustration or anger. Vulgar - the sound of a woman`s orgasm</item>
+		<item>ابن الحمار\nibn il-Homaar\nSon of a donkey</item>
+		<item>يا حمار\nya Homaar\nDonkey</item>
+		<item>أبو قرع \nabu `ara3\nSomeone bald from ringworm</item>
+		<item>عقله ضارب.\n3a`lu Daarib.\nIdiot, literally "His head was hit"</item>
+		<item>بهيمة\nbehiima\nStupid</item>
+		<item>همجي\nhamagi\nUncivilized, barbaric</item>
+		<item>معرّص\n mi3arraS\nPimp</item>
+		<item>جربوعة\ngarbuu3a\nThe jerboa (little jumping rodent that lives in the desert)</item>
+		<item>حيوان\nHayawaan\nAnimal</item>
+		<item>عبيط\n3ubaTa\nSimpleton</item>
+		<item>أهبل\nahbal\nFoolish</item>
+		<item>زي الزفت\n zayy iz-zift \nLike tar (crappy)</item>
+	</string-array><string-array name="AncientEgyptianProfaneArray">
+      	<item>Nkk-ţw `3 nk `3  ĥm.t=k \nMay you be raped by a donkey. May your wife be raped by a donkey \n(Curse of Rennfr - Deir el-Bahri)</item>
+		<item>Mt=k n ĥqr n iby\nMay you die of hunger or thirst \n(Curse of Herihor, High Priest of Amun)</item>
+		<item>Nn ĥpr  rn=k m ta Kmt\nYour name shall not exist in the black land.  \n(Curse of Herihor, High Priest of Amun)</item>
+		<item>S-uţet.ţw.k m Sthiw\nYou shall be cooked with the condemned \n(Tomb of Khety II, Dynasty 9-10)</item>
+		<item>Ušn-y ytet=k\nI shall wring your neck as a bird. \n(Curse of Hermeru, High Priest of Unis)</item>
+		<item>ţehuti nţr  ush.f -ţw\nThe god Thoth shall destroy you.</item>
+		<item>Nn sħrenn-k mesmesiw=k. Nn m33=k nfr-t\nYou shall not embrace your children. You shall not see success</item>
+		<item>Šerr šwi-t=k\nYour years shall be diminished \n(Curse of Monthuemhat)</item>
+		<item>Nn ħpr `ĥyw=k ĥr t3\nYour lifetime shall not exist on earth \n(Curse of Senmut)</item>
+		<item>Nn ħpr-k\nYou shall not exist \n(Curse of Khnumhotep)</item>
+		<item>Nes yri-t=k n nes, nes pr=k n nesbit ywf-n\nYour estate shall belong to the fire, and your house shall belong to the consuming flame \n(Curse of Tefib)</item>
+		<item>Mest m`h3w-ţ=k ţw\nYour relatives shall detest you \n(Curse of Tefib)</item>
+		<item>ĥwr-k nemm-ţw-k\nYou shall be miserable and persecuted \n(Curse of Penniut, Dyn. 20)</item>
+		<item>ħnrtw i3w-t=k ĥnt ĥr=k rd(i)ţw-f m s nty ban=k\nYour office shall be taken away before your face and it shall be given to a man who is your enemy \n(scribe Amenhotep, Dyn. 18)</item>
+		<item>ħnrtw hm.t=k ĥnt ĥr=k\nYour wife shall be taken away before your face \n(Apanage Stele)</item>
+		<item>qes r ĥr=k\nYour face shall be spat at \n(El-Hassia tomb)</item>
+		<item>Nn m`ḏ3 r ib=k m ţn `ĥwa\nYour heart shall not be content in this life \n(Wersu)</item>
+		<item>ĥs3t `ĥ`m-tn y ĥm-nţr \nThe preist of Hathor will beat you twice! \n(Curse of Petety)</item>
+		<item>Seštw, teb, du un-ţn\nThe crocodile, hippopotamus and lion will eat you! \n(Curse of Petety)</item>
+		<item>ħpr=k ush ħpr-pr=k uš\nYou will be nowhere and your house will be nowhere! \n(Dynasty 5 curse)</item>
+		<item>Nn ħpr i3w-t=k nn ħpr i3w-t ms=k\nYour office shall not exist, the position of your son shall not exist \n(Curse of Sarenput, Nomarch of Senwosret)</item>
+		<item>Nn šesp-nţr =k t=k wbeħ  \nYour god shall not accept your white bread \n(Curse of Sarenput, Nomarch of Senwosret)</item>
+		<item>Nes if=k n nes,  nes mesmesiw=k n nesbit\nYour flesh shall belong to the fire, your children shall belong to the fire. \n(Curse of Sarenput, Nomarch of Senwosret)</item>
+		<item>Nn ħpr ħa=k n s3-t\nYour corpse will not be in the ground \n(Curse of Sarenput, Nomarch of Senwosret)</item>
+		<item>Beš-k iw šdd-k pn\nMay you be sick when you read this. \n(El Lahun Missive)</item>
+    </string-array><string-array name="GreekProfaneArray">
+	    <item>μαλάκα\n(malaka)\nWanker</item>
+		<item>αι γαμήσου\n(ai gamisou)\nFuck off</item>
+		<item>μουνί\n(mouni)\nCunt</item>
+		<item>φας σκατά  \n(Fas skata)\nEat shit</item>
+		<item>πάρε μου πίπα\n(paray mou peepa)\nSuck my cock</item>
+		<item>μουνοσπόρο \n(moon-o-poro)\nSeed of a cunt</item>
+		<item>μουνόπανο\n(moon-o-pano)\nCunt rag</item>
+		<item>τσούλα\n(tsoula)\nslut</item>
+		<item>κολοτρύπα \n(kolo-treepa)\nArse hole</item>
+		<item>κολοδαχτυλο\n(kolo-thak-tillo)\nArse finger</item>
+		<item>πουτάνα\n(poutana)\nWhore</item>
+		<item>Η μάνα σας είναι πουτάνα\n(I mana sas einai pootana)\nYour mother is a whore</item>
+		<item>καριόλα \n(kariola)\nSlut (lit a creaking wooden bed)</item>
+		<item>τη μάνα σου \n(ti mana sou)\nFuck your mother </item>
+		<item>κώλο.\n(kolo)\nArse</item>
+		<item>πουστης\n(poo-stsis)\nFag</item>
+		<item>βαταλος\n(vatalos)\nIdiot</item>
+		<item>κολοβαράς\n(kolo-varass)\nAss pounder</item>
+		<item>νταβατζής\n(davat-sis)\nPonce</item>
+		<item>είσαι γαϊδούρι\n(eesay ya-i-thouree)\nYou are a donkey</item>
+		<item>θα μου κλασσιά αρχίδια μου\n(tha sou klassia arkhida mou)\nYou fart on my balls</item>
+		<item>σιχαμά\n(sikhama)\nDisgusting</item>
+		<item>σκύψεις  και γλείψεις \n(Skipsis kai glipsis)\nBend over and lick</item>
+		<item>βλάκας\n(vlakas)\nStupid</item>
+		<item>ηλίθιος\n(ilithios)\nIdiot</item>
+		<item>θα  μου Κάνεις τα τρία, δύο\n(tha mou kaneis ta tria thio)\nC\Come and have a go (lit you will make my three the two)</item>
+	</string-array><string-array name="BongoProfaneArray">
+		<item>Cunt.\nVulgar slang. Female genitalia. An objectionable person.</item>
+		<item>Mother Fucker.\nTerm of rebuke for an irritating or ridiculous person.</item>
+		<item>Fuck.\nTo have sex with. To express annoyance, contempt, or impatience</item>
+		<item>Wanker.\nSomeone who masturbates. A contemptible person.</item>
+		<item>Bastard.\nA person born of parents not married to each other. An unpleasant or dispicable person.</item>
+		<item>Prick.\nMale genetalia, penis. Term of censure for an individual.</item>
+		<item>Bollocks.\nMale genitalia, testicles. Expression of doubt.</item>
+		<item>Arsehole.\nAnus. Derisive term for a stupid or irritating person.</item>
+		<item>Shag.\nTo have sexual intercourse with. </item>
+		<item>Whore.\nA prostitute, sexually promiscuous woman</item>
+		<item>Twat.\nFemale genitalia. An objectionable person. Moderately offensive.</item>
+		<item>Piss Off.\nInstruction to leave alone, or go away, immediately.</item>
+		<item>Spastic.\nVernacular term for a disabled person.</item>
+		<item>Slag.\nSexually promiscuous woman.</item>
+		<item>Slag.\nSexually promiscuous woman.</item>
+		<item>Shit.\nFaeces. Exclamation of surprise.</item>
+		<item>Shit.\nExcrement. Adjective for something of poor quality, rubbish.</item>
+		<item>Knob Head.\nTerm of rebuke for an objectionable person. "Knob" is a slang term for penis.</item>
+		<item>Pissed Off.\nExasperated, despairing.</item>
+		<item>Arse.\nBottom, buttocks, anus.</item>
+		<item>Bugger.\nThe act of sodomy, or an individual who practices sodomy.</item>
+		<item>Balls.\nTesticles. Mildly offensive.</item>
+		<item>Jesus Fucking Christ.\nSon of God in the Christian doctrine. Exclamation of surpise</item>
+		<item>Holy Crap.\nReligious offensive term. Exclamation, interjection.</item>
+		<item>Jesus, Joseph, Mary, And The Little Fucking Donkey.\nWhimsically offensive religious exclamation.</item>
+		<item>God All-Fucking-Mighty.\nInerjection, exclamation</item>
+	</string-array><string-array name="LatinProfaneArray">
+		<item>Ceveo\nTo ride, grind. Specifically eferring to the passive partner in anal sex</item>
+		<item>Cinaedus\nUnchaste, shamefule, a sodomite</item>
+		<item>Criso\nTo ride, grind. Referring to the passive female partner</item>
+		<item>Irrumare\nTo forcibly face fuck</item>
+		<item>Landica\nClitoris</item>
+		<item>Misella landica\nPoor litle clitoris. </item>
+		<item>Pedicabo ego vos et irrumabo\nI will fuck your arse and rape your mouth (Catallus)</item>
+		<item>Pedicare\nTo sodomise</item>
+		<item>Catamitus\nBoy whore. Literally "Ganymede"</item>
+		<item>Numquid, cum crisas, blandior esse potes\n"Could you possibly be prettier as you grind" (Martial)</item>
+		<item>Sterculus\nShit licker</item>
+		<item>Futete\nFuck you!</item>
+		<item>Futue te ipsum\nGo fuck yourself</item>
+		<item>Mentula\nCock</item>
+		<item>Merda\nShit. Literally "something malodourous"</item>
+		<item>Scrapta\nWhore</item>
+		<item>Verpa\nPenis</item>
+		<item>Culus\nAnus</item>
+		<item>Fimus\nFilth</item>
+		<item>Futeure\nTo copulate.</item>
+		<item>Fututio\nThe act of sexual intercourse</item>
+		<item>Fututor\nFucker</item>
+		<item>Stercore\nDunghill</item>
+		<item>Stercus\nManure</item>
+		<item>Anus\nAnus</item>
+		<item>Clunes\nButtocks</item>
+		<item>Colei\nTesticles</item>
+		<item>Crista\nClitoris, literally "crest"</item>
+		<item>Cunnus\nCunt</item>
+		<item>Efutue\nFuck off, literally "Fuck away"</item>
+		<item>Excreta\nFaecal matter or urine.</item>
+		<item>Faeces\nShit. Literally "dregs"</item>
+		<item>Fossa\nVagina, liteally "ditch"</item>
+		<item>Lupa\nProstitute, whore, literally "She-wolf"</item>
+		<item>Meretrix\nProstitute, whore, literally "earner"</item>
+		<item>Scortum\nWhore</item>
+		<item>Scotor \nTo prostitue oneself</item>
+		<item>Sinus\nVagina, literally "indentation"</item>
+		<item>Testes\nTesticles</item>
+		<item>Arrigo\nTo have an erection, to prick up.</item>
+		<item>Cacare\nTo defecate</item>
+		<item>Caco\nShit</item>
+		<item>Cunire\nTo shit</item>
+		<item>Lotium\nUrine</item>
+		<item>Meiere\nTo urinate</item>
+		<item>Mingere\nTo urinate</item>
+		<item>Pedere\nTo fart</item>
+		<item>Podex\nAnus</item>
+		<item>Sopio\nCharaciture with a large penis</item>
+		<item>Penis\nLiterally "tail"</item>
+		<item>Pipinna\nChildren slang for penis. </item>
+	</string-array><string-array name="LatinFilePathArray">
+		<item>Bongo_Latin_029.mp3</item>
+		<item>Bongo_Latin_049.mp3</item>
+		<item>Bongo_Latin_028.mp3</item>
+		<item>Bongo_Latin_027.mp3</item>
+		<item>Bongo_Latin_004.mp3</item>
+		<item>Bongo_Latin_005.mp3</item>
+		<item>Bongo_Latin_013.mp3</item>
+		<item>Bongo_Latin_026.mp3</item>
+		<item>Bongo_Latin_047.mp3</item>
+		<item>Bongo_Latin_030.mp3</item>
+		<item>Bongo_Latin_044.mp3</item>
+		<item>Bongo_Latin_046.mp3</item>
+		<item>Bongo_Latin_045.mp3</item>
+		<item>Bongo_Latin_008.mp3</item>
+		<item>Bongo_Latin_017.mp3</item>
+		<item>Bongo_Latin_050.mp3</item>
+		<item>Bongo_Latin_009.mp3</item>
+		<item>Bongo_Latin_007.mp3</item>
+		<item>Bongo_Latin_021.mp3</item>
+		<item>Bongo_Latin_023.mp3</item>
+		<item>Bongo_Latin_024.mp3</item>
+		<item>Bongo_Latin_025.mp3</item>
+		<item>Bongo_Latin_022.mp3</item>
+		<item>Bongo_Latin_020.mp3</item>
+		<item>Bongo_Latin_016.mp3</item>
+		<item>Bongo_Latin_015.mp3</item>
+		<item>Bongo_Latin_013.mp3</item>
+		<item>Bongo_Latin_006.mp3</item>
+		<item>Bongo_Latin_001.mp3</item>
+		<item>Bongo_Latin_042.mp3</item>
+		<item>Bongo_Latin_019.mp3</item>
+		<item>Bongo_Latin_018.mp3</item>
+		<item>Bongo_Latin_003.mp3</item>
+		<item>Bongo_Latin_041.mp3</item>
+		<item>Bongo_Latin_040.mp3</item>
+		<item>Bongo_Latin_043.mp3</item>
+		<item>Bongo_Latin_039.mp3</item>
+		<item>Bongo_Latin_002.mp3</item>
+		<item>Bongo_Latin_014.mp3</item>
+		<item>Bongo_Latin_048.mp3</item>
+		<item>Bongo_Latin_032.mp3</item>
+		<item>Bongo_Latin_031.mp3</item>
+		<item>Bongo_Latin_033.mp3</item>
+		<item>Bongo_Latin_038.mp3</item>
+		<item>Bongo_Latin_037.mp3</item>
+		<item>Bongo_Latin_036.mp3</item>
+		<item>Bongo_Latin_034.mp3</item>
+		<item>Bongo_Latin_035.mp3</item>
+		<item>Bongo_Latin_011.mp3</item>
+		<item>Bongo_Latin_010.mp3</item>
+		<item>Bongo_Latin_012.mp3</item>
+	</string-array></file><file path="C:\Temp\Profane\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="org.mofogames.profanity.SeekBarPreference"> 
+        <attr format="integer" name="minValue"/>
+        <attr format="integer" name="maxValue"/> 
+        <attr format="integer" name="stepSize"/>
+    </declare-styleable></file><file path="C:\Temp\Profane\app\src\main\res\values\colors.xml" qualifiers=""><color name="gray_color">#aaa</color><color name="red_color">#F00</color><color name="foreground">#ffffffff</color><color name="lavender_color">#BAC</color><color name="actionbar_background">#000000</color><color name="background">#ff000000</color><color name="cerulean_color">#8BD</color><color name="white_color">#fff</color><color name="spring_rain_color">#793</color><color name="actionbar_text">#ffffff</color></file><file path="C:\Temp\Profane\app\src\main\res\values\numericalConstants.xml" qualifiers=""><integer name="PARTICLE_FILTER">3</integer><integer name="UI_MAIN">0</integer><integer name="DATABASE_VERSION">1</integer><integer name="SRUKF_FILTER">2</integer><integer name="DIALOG_OK">0</integer><integer name="KF_FILTER">1</integer><integer name="DIALOG_YES_NO">1</integer><integer name="NO_FILTER">0</integer><integer name="UI_PREFERENCES">1</integer></file><file path="C:\Temp\Profane\app\src\main\res\values\strings.xml" qualifiers=""><string name="preference_switch">Status</string><string name="about_text">This application will curse in your language of your choice whenever your phone is shaken. The harder you shake your phone the more offensive the profanity. \n\nThe profanities used in the original “Bongo English” list stem from  research into the use of profanities in English undertaken jointly by the Advertising Standards Authority,and British Broadcasting Corporation,  “Delete Expletives?”  [2000].\n\n The use and history of expletives, profanities and curses is likely to be as ancient as the origins of language itself. This application aims to simultaneously entertain, amuse and educate. Indeed the icon used to launch the app is a "grawlix" (Lexicon of Comicana - Mort Walker [1980])- of the type seen in comics used as a substitute for profanities \n\nThe etymology of each expletive is explained, although in some instances this may be conjectural.\n\nThe author of this application has made the conscious decision to remove racial and most religious profanity.\n\nI hope that this application offends everyone that uses it. However, that statement is meant with the best of intentions! Now f**k off and enjoy the app!</string><string name="start_as_service_title">Start on Boot Up</string><string name="etymology_label">Dictionary</string><string name="sensitivity_summary">Change sensitivity to motion</string><string name="exit_warning">Are you sure you want to exit?</string><string name="switch_off">Disabled</string><string name="yes_button">Yes</string><string name="pack_key">pack</string><string name="threshold_summary">Change the minimum trigger threshold</string><string name="refractory_period_key">refractory_period</string><string name="volume_title">Volume</string><string name="ok_button">OK</string><string name="delimiter">,</string><string name="main_title">Profanity!</string><string name="pack_title">Language Pack</string><string name="no_button">No</string><string name="pack_summary">Select the language pack to use</string><string name="show_text_summary">Show Profanity! text</string><string name="threshold_key">threshold</string><string name="about_title">About Profanity...</string><string name="refractory_period_title">Refractory Period</string><string name="exit_label">Exit</string><string name="start_as_service_summary">Start as a service on device boot</string><string name="mofo_logo">Mofo Studio Logo</string><string name="sensitivity_title">Sensitivity</string><string name="show_text_title">Show text</string><string name="dictionary_label">Dictionary</string><string name="refractory_period_summary">Change the interval time between events</string><string name="app_name">Profanity!</string><string name="app_label">Profanity!</string><string name="send_title">Share Profanity! with...</string><string name="volume_key">volume_text</string><string name="volume_summary">Set Volume</string><string name="eol">:</string><string name="notification_service_subject">Rnning as a background service.</string><string name="threshold_title">Threshold</string><string name="show_text_key">show_text</string><string name="database_name">Profanity.db</string><item name="app_notification_id" type="id"/><string name="notification_service_identifier">Profanity!</string><string name="sensitivity_key">sensitivity</string><string name="preferences_label">Preferences</string><string name="start_as_service_key">start_as_service</string><string name="about_label">About</string><string name="switch_on">Enabled</string><string name="switch_key">switch_on_off</string><string name="key_value_delimiter">>></string></file><file name="settings" path="C:\Temp\Profane\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/></source><source path="C:\Temp\Profane\app\build\generated\res\rs\debug"/><source path="C:\Temp\Profane\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Temp\Profane\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="org.mofogames.profanity.SeekBarPreference"><attr format="integer" name="minValue"/><attr format="integer" name="maxValue"/><attr format="integer" name="stepSize"/></declare-styleable></configuration></mergedItems></merger>

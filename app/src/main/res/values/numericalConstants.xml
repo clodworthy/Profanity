@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-->UI State type safe enumeration<-->
+    <integer name="UI_MAIN">0</integer>
+    <integer name="UI_PREFERENCES">1</integer>
+    
+    <!-->Custom Alert Dialog type safe enumeration<-->
+    <integer name="DIALOG_OK">0</integer>
+    <integer name="DIALOG_YES_NO">1</integer>
+    
+    <!-->Filter type safe enumeration<-->
+    <integer name="NO_FILTER">0</integer>
+    <integer name="KF_FILTER">1</integer>
+    <integer name="SRUKF_FILTER">2</integer>
+    <integer name="PARTICLE_FILTER">3</integer>
+    
+    <!-- Database Version -->
+    <integer name="DATABASE_VERSION">1</integer>
+</resources>

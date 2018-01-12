@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Profanity!</string>
+    <string name="app_name">Profanity!</string>
+    <string name="main_title">Profanity!</string>
+    <item type="id" name ="app_notification_id"/>
+    <string name="send_title">Share Profanity! with...</string>
+     <!--> TEXT CONTENT FOR MAIN <-->
+     <string name="etymology_label">Dictionary</string>
+     <string name="dictionary_label">Dictionary</string>
+     <string name="preferences_label">Preferences</string>
+     <string name="about_label">About</string>
+     <string name="exit_label">Exit</string>
+     <string name ="mofo_logo">Mofo Studio Logo</string>
+    
+      <!--> TEXT CONTENT FOR NOTIFIACTIONS <-->
+    	<string name="notification_service_identifier">Profanity!</string>
+    	<string name="notification_service_subject">Rnning as a background service.</string>
+    	
+     <!--> TEXT CONTENT FOR  PREFERENCES <-->
+     
+     <string name="preference_switch">Status</string>
+     <string name="switch_on">Enabled</string>
+     <string name="switch_off">Disabled</string>
+     <string name="switch_key">switch_on_off</string>
+     <string name="show_text_key">show_text</string>
+      <string name="show_text_title">Show text</string>
+      <string name="show_text_summary">Show Profanity! text</string>
+      <string name="start_as_service_key">start_as_service</string>
+      <string name="start_as_service_title">Start on Boot Up</string>
+      <string name="start_as_service_summary">Start as a service on device boot</string>
+      <string name="pack_key">pack</string>
+      <string name="pack_title">Language Pack</string>
+      <string name="pack_summary">Select the language pack to use</string>
+      <string name="sensitivity_key">sensitivity</string>
+      <string name="sensitivity_title">Sensitivity</string>
+      <string name="sensitivity_summary">Change sensitivity to motion</string>
+       <string name="threshold_key">threshold</string>
+      <string name="threshold_title">Threshold</string>
+      <string name="threshold_summary">Change the minimum trigger threshold</string>
+       <string name="refractory_period_key">refractory_period</string>
+      <string name="refractory_period_title">Refractory Period</string>
+      <string name="refractory_period_summary">Change the interval time between events</string>
+      <string name="volume_key">volume_text</string>
+      <string name="volume_title">Volume</string>
+      <string name="volume_summary">Set Volume</string>
+    
+    
+     
+      
+     <!--> TEXT CONTENT FOR  ABOUT <-->
+     <string name="about_title">About Profanity...</string>
+     <string name="about_text">This application will curse in your language of your choice whenever your phone is shaken. The harder you shake your phone the more offensive the profanity. \n\nThe profanities used in the original “Bongo English” list stem from  research into the use of profanities in English undertaken jointly by the Advertising Standards Authority,and British Broadcasting Corporation,  “Delete Expletives?”  [2000].\n\n The use and history of expletives, profanities and curses is likely to be as ancient as the origins of language itself. This application aims to simultaneously entertain, amuse and educate. Indeed the icon used to launch the app is a "grawlix" (Lexicon of Comicana - Mort Walker [1980])- of the type seen in comics used as a substitute for profanities \n\nThe etymology of each expletive is explained, although in some instances this may be conjectural.\n\nThe author of this application has made the conscious decision to remove racial and most religious profanity.\n\nI hope that this application offends everyone that uses it. However, that statement is meant with the best of intentions! Now f**k off and enjoy the app!</string>
+     <!-->TEXT CONTENT FOR CustomAlert<-->
+     <string name="exit_warning">Are you sure you want to exit?</string>
+     <string name="ok_button">OK</string>
+     <string name="yes_button">Yes</string>
+     <string name="no_button">No</string>
+     
+	<!-->DATABASE string constants<-->
+     <string name="database_name">Profanity.db</string>
+     <!--> String Delimiters <-->
+     <string name="eol">:</string>
+     <string name="delimiter">,</string>
+     <string name="key_value_delimiter">&gt;></string>
+     
+	
+	
+</resources>

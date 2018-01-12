@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header_item.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\listview_header_item.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\round_border.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dictionary.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\dictionary.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\language_dictionary_view.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\language_dictionary_view.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_row.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\listview_item_row.xml"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_slider.xml",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\layout\\dialog_slider.xml"
+    }
+]

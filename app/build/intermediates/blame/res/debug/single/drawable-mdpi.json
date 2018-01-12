@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\note.png",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\drawable-mdpi\\note.png"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play_button.png",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\drawable-mdpi\\play_button.png"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stripe_bg.png",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\drawable-mdpi\\stripe_bg.png"
+    },
+    {
+        "merged": "C:\\Temp\\Profane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seekbar_background.9.png",
+        "source": "C:\\Temp\\Profane\\app\\src\\main\\res\\drawable-mdpi\\seekbar_background.9.png"
+    }
+]

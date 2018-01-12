@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:pf="http://schemas.android.com/apk/res/" >
+  
+ 	<PreferenceCategory
+		android:title="Start Up Options">
+		 <SwitchPreference
+        	android:defaultValue="true"
+	        android:key="@string/switch_key"
+	        android:title="@string/preference_switch"
+	        android:summaryOff="@string/switch_off"
+	        android:summaryOn="@string/switch_on"
+         />
+		 
+		<CheckBoxPreference 
+			android:key="@string/show_text_key"
+			android:title="@string/show_text_title"
+			android:summary="@string/show_text_summary"
+			android:defaultValue = "true"
+		/>
+		
+		<CheckBoxPreference 
+			android:key="@string/start_as_service_key"
+			android:title="@string/start_as_service_title"
+			android:summary="@string/start_as_service_summary"
+			android:defaultValue = "true"
+		/>
+		
+		<ListPreference
+                        android:title="@string/pack_title"
+                        android:summary="@string/pack_summary"
+                        android:key="@string/pack_key"
+                        android:defaultValue="None"
+                        android:entries="@array/packArray"
+                        android:entryValues="@array/packArrayValues" />
+		
+	</PreferenceCategory>
+	
+   
+  	<PreferenceCategory
+		android:title="Kinematics"> 
+		
+  	    <profanity.mofogames.org.SeekBarPreference
+		    android:id="@+id/volume"
+		    android:key="@string/volume_key"
+			android:title="@string/volume_title"
+			android:dialogTitle="@string/volume_title"
+			android:summary="@string/volume_summary"
+			android:persistent="true"
+			android:defaultValue="10"
+			pf:minValue="0"
+			pf:maxValue="10"
+			/>
+		 <profanity.mofogames.org.SeekBarPreference
+		    android:id="@+id/seekbar"
+		    android:key="@string/sensitivity_key"
+			android:title="@string/sensitivity_title"
+			android:dialogTitle="@string/sensitivity_title"
+			android:summary="@string/sensitivity_summary"
+			android:persistent="true"
+			android:defaultValue="1"
+			pf:minValue="0"
+			pf:maxValue="3"
+			/>
+		  <profanity.mofogames.org.SeekBarPreference
+        	android:key="@string/threshold_key"
+			android:title="@string/threshold_title"
+			android:dialogTitle="@string/threshold_title"
+			android:summary="@string/threshold_summary"
+			android:persistent="true"
+			android:defaultValue="1"
+			android:max="10"
+			pf:minValue="0"
+			pf:maxValue="10"
+			/>
+		  <profanity.mofogames.org.SeekBarPreference
+        	android:key="@string/refractory_period_key"
+			android:title="@string/refractory_period_title"
+			android:dialogTitle="@string/refractory_period_title"
+			android:summary="@string/refractory_period_summary"
+			android:persistent="true"
+			android:defaultValue="3"
+			pf:minValue="0"
+			pf:maxValue="10"
+			/>
+	</PreferenceCategory>
+	
+   
+	
+	
+</PreferenceScreen>
